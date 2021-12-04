@@ -1,0 +1,9 @@
+dist/*
+!/dist/_redirects
+!/dist/_headers
+!/dist/favicon.ico
+!/dist/index.html
+**/node_modules
+**/dist
+wasmegg/_common/loot/mission_reward_count-pretty.json
+yarn.lock

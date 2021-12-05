@@ -1,13 +1,14 @@
 <template>
   <epic-research-widget
-    :epic-research="epicResearch"
-    @update-epic-research="onUpdateEpicResearch"
+    :scenario-a="scenarioA"
+    :scenario-b="scenarioB"
+    @update-list-by-id="onUpdateListByID"
   />
 </template>
 
 <script lang="ts">
-import _ from "lodash";
-import { defineComponent } from 'vue';
+  import _ from "lodash";
+import { defineComponent, PropType } from 'vue';
 //
 import { Backup } from 'lib'
 import EpicResearchWidget from '@/components/EpicResearchWidget.vue';
@@ -19,7 +20,7 @@ export default defineComponent({
 
   props: {
     backup: {
-      type: Object as Backup,
+      type: Object as PropType<Backup>,
       required: true,
     },
   },
@@ -27,40 +28,25 @@ export default defineComponent({
   // This async component does not respond to playerId changes.
   /* eslint-disable vue/no-setup-props-destructure */
   setup({ backup }) {
-
-    const homeFarm = backup.farms[0]
-
     return {
-      homeFarm,
+      scenarioB: backup,
     };
   },
 
   data() {
-    const { backup } = this
+    const scenarioA = _.cloneDeep(this.backup)
 
-    const { epicResearch:rawER, currentMultiplier, boosts, soulEggsD, unclaimedSoulEggsD } = backup.game;
-
-    const homeFarm = backup.farms[0]
-
-    console.log('simdata', homeFarm, currentMultiplier, soulEggsD, unclaimedSoulEggsD)
-
-    const actualEpicResearch = _.filter(rawER, ({ id }) => (! /^(epic_silo_quality|warp_shift)$/.test(id)))
-    const epicResearch = _.fromPairs(_.map(actualEpicResearch, ({ id, level }) => (
-      [id, { id, val: level, actual: level }]
-    )))
-
-    return { epicResearch }
+    return { scenarioA }
   },
 
   methods: {
-
-    onUpdateEpicResearch({ row, val }) {
-      const max = row.info.levels
-      console.log('epicResearchUpdate', row, val, this.epicResearch[row.id])
-      this.epicResearch[row.id] = { ...this.epicResearch[row.id], val: _.clamp(val, 0, max) }
-      console.log('epicResearchUpdate2', row, val, this.epicResearch[row.id], this.epicResearch[row.id].val)
+    onUpdateListByID({ path, id, updates }) {
+      const list = _.get(this, path)
+      console.warn('onUpdateListByID', path, id, updates, list)
+      const idx = list.findIndex(({ id:elID }) => (elID === id))
+      list[idx] = _.merge({}, list[idx], updates)
     },
-
   },
 });
+
 </script>

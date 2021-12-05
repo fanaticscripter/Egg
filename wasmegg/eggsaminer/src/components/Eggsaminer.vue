@@ -71,6 +71,7 @@ export default defineComponent({
     BaseInfo,
     Simulator,
   },
+
   props: {
     playerId: {
       type: String,
@@ -118,8 +119,6 @@ export default defineComponent({
 
     const { isVisibleSection, toggleSectionVisibility } = useSectionVisibility();
 
-    const { epicResearch } = backup.game;
-
     return {
       backup,
       nickname,
@@ -127,8 +126,6 @@ export default defineComponent({
       lastRefreshedTimestamp,
       lastRefreshedRelative,
       egg,
-      //
-      epicResearch,
       //
       isVisibleSection,
       toggleSectionVisibility,

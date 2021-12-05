@@ -11,10 +11,11 @@
                   scope="col"
                   class="px-2 py-2 whitespace-pre text-sm font-medium text-gray-500"
                 >
-                  {{ titleHeader?.text }}
+                  {{ titleHeader?.text || 'Name' }}
                 </th>
                 <th
-                  v-for="header in dataHeaders"
+                  v-for="(header, idx) in dataHeaders"
+                  :key="`header-${idx}`"
                   scope="col"
                   class="px-2 py-2 whitespace-pre text-sm font-medium text-gray-500"
                 >
@@ -25,29 +26,30 @@
             <tbody>
 
               <tr
-                class="bg-white"
-                :key="row.id"
                 v-for="row in rows"
+                :key="row.id"
                 v-tippy="{ content: row.tip }"
+                class="bg-white"
               >
                 <td
                   class="px-2 py-1 whitespace-nowrap text-sm font-medium text-gray-600"
                 >
                   {{ row.title }}
                 </td>
-                <td v-if="inputs?.[row.id]"
+                <td v-if="row.val !== undefined"
                   >
                   <input
-                    :value="inputs[row.id].val"
+                    :value="row.val"
                     @input="$emit('update-rowval', { row, val: $event.target?.value, ev: $event })"
                     type="number"
                     class="w-28 text-right"
                     >
                 </td>
                 <td
-                  v-for="cell in row.cells"
-                  class="px-8 py-1 whitespace-nowrap text-sm font-medium text-gray-900"
+                  v-for="(cell, idx) in row.cells"
+                  :key="`cell-${idx}`"
                   :class="cell.class"
+                  class="px-8 py-1 whitespace-nowrap text-sm font-medium text-gray-900"
                 >
                   {{ cell.val }}
                 </td>
@@ -55,7 +57,6 @@
                 <td class="px-2 py-1 whitespace-nowrap text-sm font-medium text-gray-900">&nbsp;</td>
                 <td class="px-2 py-1 whitespace-nowrap text-sm font-medium text-gray-900">&nbsp;</td>
               </tr>
-
 
             </tbody>
           </table>
@@ -66,8 +67,8 @@
 </template>
 
 <script lang="ts">
-  import _ from "lodash";
-import { defineComponent, PropType, toRefs } from 'vue';
+// import _ from "lodash";
+import { defineComponent, PropType } from 'vue';
 
 type Header = {
   text: string;
@@ -76,6 +77,7 @@ type Header = {
 type Cell = {
   val:    string;
   style?: object;
+  class?: string[];
 }
 
 type Row = {
@@ -91,7 +93,7 @@ export default defineComponent({
   props: {
     titleHeader: {
       type: Object as PropType<Header>,
-      required: true,
+      required: false,
     },
     dataHeaders: {
       type: Array as PropType<Header[]>,
@@ -101,21 +103,6 @@ export default defineComponent({
       type: Array as PropType<Row[]>,
       required: true,
     },
-    inputs: {
-      type: Object as PropType<any>,
-      required: false,
-    },
-  },
-
-  setup(props) {
-    const { titleHeader, dataHeaders, rows, inputs } = toRefs(props);
-
-    return {
-      titleHeader,
-      dataHeaders,
-      rows,
-      inputs,
-    };
   },
 });
 </script>

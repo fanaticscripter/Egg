@@ -29,19 +29,6 @@ export function farmEarningBonus(
   const prophecyEggsCount = accountProphecyEggsCount(backup);
   const soulEggBonus = farmSoulEggBonus(farm, progress, artifacts);
   const prophecyEggBonus = farmProphecyEggBonus(farm, progress, artifacts);
-  return farmEarningBonusCalc({ soulEggsCount, soulEggBonus, prophecyEggsCount, prophecyEggBonus })
-}
-
-interface SoulEggValues {
-  soulEggsCount:        number
-  soulEggBonus:         number
-  prophecyEggsCount:    number
-  prophecyEggBonus:     number
-}
-
-export function farmEarningBonusCalc({
-  soulEggsCount, soulEggBonus, prophecyEggsCount, prophecyEggBonus,
-}: SoulEggValues): number {
   return soulEggsCount * soulEggBonus * (1 + prophecyEggBonus) ** prophecyEggsCount;
 }
 

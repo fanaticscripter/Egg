@@ -32,3 +32,16 @@ export interface Research {
 export interface ResearchInstance extends Research {
   level: number;
 }
+
+export interface ScenarioValue {
+  id: string;
+  val: number;
+  actual: number;
+}
+
+interface SoulEggValues {
+  soulEggsCount:        number
+  soulEggBonus:         number
+  prophecyEggsCount:    number
+  prophecyEggBonus:     number
+}

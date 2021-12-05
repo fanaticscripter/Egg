@@ -7,12 +7,12 @@
     @toggle="toggleSectionVisibility('epic_research')"
     >
     <stats-matrix
-      :titleHeader="titleHeader"
+      :title-header="titleHeader"
       :rows="rows"
-      :dataHeaders="dataHeaders"
+      :data-headers="dataHeaders"
       :inputs="inputs"
       class="my-2"
-      v-on:update-rowval="$emit('update-epic-research', $event)"
+      @update-rowval="$emit('update-epic-research', $event)"
       />
     <p>Note that amount paid may not reflect discounts or any changes to the game</p>
   </collapsible-section>
@@ -29,18 +29,14 @@
 
 <script lang="ts">
 
-  import _ from "lodash";
+import _ from "lodash";
 import { useSectionVisibility } from 'ui/composables/section_visibility';
 import { defineComponent, PropType, toRefs } from 'vue';
 import CollapsibleSection from '@/components/CollapsibleSection.vue';
 import researchesData from '@/researches.json';
+import { ScenarioValue } from '@/lib'
 
 import StatsMatrix from '@/components/StatsMatrix.vue';
-
-type EpicResearchLevel = {
-  id:           string;
-  level:        string;
-};
 
 const researches = _.mapKeys(researchesData, 'id')
 
@@ -96,9 +92,29 @@ export default defineComponent({
 
   props: {
     epicResearch: {
-      type: Object as PropType<any[]>,
+      type: Object as PropType<ScenarioValue[]>,
       required: true,
     },
+  },
+
+  setup(props) {
+    const { epicResearch } = toRefs(props);
+    const { isVisibleSection, toggleSectionVisibility } = useSectionVisibility(false);
+
+    const dataHeaders = _.map([
+      'Level', 'Actual', 'Max Levels', 'Effect', 'Stacks?', 'Next Price', 'Paid', 'Remaining', 'Action',
+    ], (text) => ({ text }))
+
+    return {
+      // rows:        epicResearchRows,
+      inputs:      epicResearch,
+      titleHeader: { text: 'Name' },
+      dataHeaders,
+      researches,
+      //
+      isVisibleSection,
+      toggleSectionVisibility,
+    };
   },
 
   computed: {
@@ -148,26 +164,7 @@ export default defineComponent({
         return { id, title, cells, tip: description, info }
       });
     },
-  },
+},
 
-  setup(props) {
-    const { epicResearch } = props;
-    const { isVisibleSection, toggleSectionVisibility } = useSectionVisibility();
-
-    const dataHeaders = _.map([
-      'Level', 'Actual', 'Max Levels', 'Effect', 'Stacks?', 'Next Price', 'Paid', 'Remaining', 'Action',
-    ], (text) => ({ text }))
-
-    return {
-      // rows:        epicResearchRows,
-      inputs:      epicResearch,
-      titleHeader: { text: 'Name' },
-      dataHeaders,
-      researches,
-      //
-      isVisibleSection,
-      toggleSectionVisibility,
-    };
-  },
 });
 </script>

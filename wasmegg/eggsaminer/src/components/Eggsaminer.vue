@@ -39,7 +39,7 @@
 </template>
 
 <script lang="ts">
-import _ from "lodash";
+// import _ from "lodash";
 import { defineComponent, onBeforeUnmount, ref } from 'vue';
 import dayjs from 'dayjs';
 import advancedFormat from 'dayjs/plugin/advancedFormat';

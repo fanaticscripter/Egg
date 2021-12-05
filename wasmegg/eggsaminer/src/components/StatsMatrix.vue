@@ -41,6 +41,7 @@
                     :value="inputs[row.id].val"
                     @input="$emit('update-rowval', { row, val: $event.target?.value, ev: $event })"
                     type="number"
+                    class="w-28 text-right"
                     >
                 </td>
                 <td

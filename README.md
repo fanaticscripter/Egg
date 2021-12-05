@@ -2,9 +2,9 @@
 
 ## Installation
 
-These instructions may not be 100% correct. On OSX, unless you can
-figure out the protoc-gen-doc thing you should comment out the
-`protoc` line in `wasmegg/proto-explorer/Makefile`:
+These instructions may not be 100% correct. On OSX, if you hit
+problems with the protoc-gen-doc thing, you can with minimal loss
+comment out the `protoc` line in `wasmegg/proto-explorer/Makefile`:
 
 ```
 # commented out to make MacOS work
@@ -34,9 +34,8 @@ echo "$PWD/$basename" >> $GITHUB_PATH
 MacOS:
 
 ```
-# ??? couldn't get this to work
-# go get -d -u github.com/pseudomuto/protoc-gen-doc/cmd/protoc-gen-doc
-# protoc-gen-doc
+brew install protobuf-c
+go install github.com/pseudomuto/protoc-gen-doc/cmd/protoc-gen-doc@latest
 ```
 
 ### Set up ETS
@@ -52,7 +51,7 @@ brew install zmwangx/ets/ets
 cd lib
 make init
 make
-cd ..       # back to wasmegg directory
+cd ..       # back to main directory
 ```
 
 ### Build egg explorer sites

@@ -3,7 +3,7 @@
 
   <div class="max-w-5xl w-full px-4 pb-4 xl:px-0 mx-auto">
     <h1 class="mx-4 mt-4 mb-2 text-center text-lg leading-6 font-medium text-gray-900">
-      Stats Examiner
+      Stats Eggsaminer
     </h1>
 
     <the-player-id-form :player-id="playerId" @submit="submitPlayerId" />
@@ -25,6 +25,13 @@
         Examine and modify your earnings under various scenarios
       </div>
     </template>
+
+    <div class="text-sm mt-4 bg-gray-200 px-5 py-10 text-center">
+  This tool is based on the Egg project by @mk2
+  (<a href="https://github.com/fanaticscripter/Egg">Github link</a>),
+  but is not maintained by them. You may find their other tools at
+  <a href="https://wasmegg.netlify.app/">wasmegg.netlify.app</a>).
+    </div>
   </div>
 
   <the-calculator-wrapper />

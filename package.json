@@ -10,6 +10,7 @@
     "wasmegg/artifact-explorer",
     "wasmegg/artifact-sandbox",
     "wasmegg/consumption-sheet",
+    "wasmegg/eggsaminer",
     "wasmegg/enlightenment",
     "wasmegg/events",
     "wasmegg/inventory-visualizer",

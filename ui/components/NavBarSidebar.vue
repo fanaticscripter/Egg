@@ -192,6 +192,7 @@ const entries: ({
   idToTool.get('rockets-tracker')!,
   idToTool.get('past-contracts')!,
   idToTool.get('inventory-visualizer')!,
+  idToTool.get('eggsaminer')!,
   idToTool.get('enlightenment')!,
   idToTool.get('smart-assistant')!,
 

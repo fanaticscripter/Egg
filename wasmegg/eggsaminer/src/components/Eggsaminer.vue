@@ -40,7 +40,7 @@
 
 <script lang="ts">
 import _ from "lodash";
-import { computed, defineComponent, onBeforeUnmount, ref } from 'vue';
+import { defineComponent, onBeforeUnmount, ref } from 'vue';
 import dayjs from 'dayjs';
 import advancedFormat from 'dayjs/plugin/advancedFormat';
 import localizedFormat from 'dayjs/plugin/localizedFormat';
@@ -48,16 +48,13 @@ import relativeTime from 'dayjs/plugin/relativeTime';
 import timezone from 'dayjs/plugin/timezone';
 import utc from 'dayjs/plugin/utc';
 
-import { eggIconPath, iconURL, UserBackupEmptyError } from 'lib';
+import { iconURL, UserBackupEmptyError } from 'lib';
 import {
   requestFirstContact,
-} from '@/lib';
+} from 'lib/api';
 import { useSectionVisibility } from 'ui/composables/section_visibility';
-import CollapsibleSection from '@/components/CollapsibleSection.vue';
-import StatsMatrix from '@/components/StatsMatrix.vue';
 //
-import BaseInfo from 'ui/components/BaseInfo.vue';
-import EpicResearchWidget from '@/components/EpicResearchWidget.vue';
+import BaseInfo           from 'ui/components/BaseInfo.vue';
 import Simulator          from '@/components/Simulator.vue';
 
 // Note that timezone abbreviation may not work due to
@@ -71,9 +68,7 @@ dayjs.extend(utc);
 
 export default defineComponent({
   components: {
-    CollapsibleSection,
     BaseInfo,
-    EpicResearchWidget,
     Simulator,
   },
   props: {
@@ -118,7 +113,7 @@ export default defineComponent({
     const egg = farm.eggType!;
     const lastRefreshedTimestamp = farm.lastStepTime! * 1000;
     const lastRefreshed = dayjs(Math.min(lastRefreshedTimestamp, Date.now()));
-    const currentTimestamp = ref(Date.now());
+    // const currentTimestamp = ref(Date.now());
     const lastRefreshedRelative = ref(lastRefreshed.fromNow());
 
     const { isVisibleSection, toggleSectionVisibility } = useSectionVisibility();

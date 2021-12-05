@@ -22,7 +22,7 @@
 
     <template v-else>
       <div class="text-sm mt-4">
-        This tool lets you examine and modify your earnings under various scenarios.
+        Examine and modify your earnings under various scenarios
       </div>
     </template>
   </div>

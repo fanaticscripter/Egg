@@ -1,9 +1,9 @@
 <template>
-  <the-nav-bar active-entry-id="enlightenment" />
+  <the-nav-bar active-entry-id="eggsaminer" />
 
   <div class="max-w-5xl w-full px-4 pb-4 xl:px-0 mx-auto">
     <h1 class="mx-4 mt-4 mb-2 text-center text-lg leading-6 font-medium text-gray-900">
-      Enlightenment companion
+      Stats Examiner
     </h1>
 
     <the-player-id-form :player-id="playerId" @submit="submitPlayerId" />
@@ -12,7 +12,7 @@
     <base-error-boundary v-if="playerId" :key="`${playerId}:${refreshId}`">
       <suspense>
         <template #default>
-          <the-companion :player-id="playerId" />
+          <eggsaminer :player-id="playerId" />
         </template>
         <template #fallback>
           <base-loading />
@@ -22,21 +22,7 @@
 
     <template v-else>
       <div class="text-sm mt-4">
-        This tool pulls the latest save for the specified player, and generates a report with
-        information useful for completing the enlightenment diamond trophy, e.g. hab space, internal
-        hatchery rate, equipped artifacts, projected completion date, etc.
-      </div>
-
-      <div class="text-sm mt-2">
-        If you are not yet sure about feasibility of the trophy, or earning enough cash for the
-        required WD level appears to be very difficult,
-        <a
-          href="https://docs.google.com/spreadsheets/d/157K4r3Z5wfCNKhUWb34mlxM08DEA1AWamsA20xjQIhw/edit?usp=sharing"
-          target="_blank"
-          class="text-blue-500 hover:text-blue-600"
-          >Sami#2336's detailed spreadsheet</a
-        >
-        may help with your decision and execution.
+        This tool lets you examine and modify your earnings under various scenarios.
       </div>
     </template>
   </div>
@@ -52,7 +38,7 @@ import TheNavBar from 'ui/components/NavBar.vue';
 import ThePlayerIdForm from 'ui/components/PlayerIdForm.vue';
 import BaseErrorBoundary from 'ui/components/BaseErrorBoundary.vue';
 import BaseLoading from 'ui/components/BaseLoading.vue';
-import TheCompanion from '@/components/TheCompanion.vue';
+import Eggsaminer from '@/components/Eggsaminer.vue';
 import TheCalculatorWrapper from '@/components/TheCalculatorWrapper.vue';
 
 export default defineComponent({
@@ -61,7 +47,7 @@ export default defineComponent({
     BaseErrorBoundary,
     BaseLoading,
     ThePlayerIdForm,
-    TheCompanion,
+    Eggsaminer,
     TheCalculatorWrapper,
   },
   setup() {

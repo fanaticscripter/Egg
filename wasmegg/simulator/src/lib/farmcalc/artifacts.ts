@@ -6,6 +6,9 @@ import { requiredWDLevelForEnlightenmentDiamond } from './hab_space';
 
 export function homeFarmArtifacts(backup: ei.IBackup): Artifact[] {
   const db = backup.artifactsDb;
+
+  console.warn(backup)
+
   if (!db) {
     return [];
   }
@@ -37,6 +40,7 @@ export function homeFarmArtifacts(backup: ei.IBackup): Artifact[] {
 }
 
 export function bestPossibleGussetForEnlightenment(backup: ei.IBackup): Artifact | null {
+  console.warn('bestPossibleGussetForEnlightenment', backup)
   const stonedGussets = artifactsFromInventoryWithClarityStones(
     backup,
     ei.ArtifactSpec.Name.ORNATE_GUSSET

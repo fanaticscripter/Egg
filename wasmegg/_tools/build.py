@@ -14,8 +14,9 @@ srcdir = pathlib.Path("src")
 distdir = pathlib.Path("dist")
 
 pagename = pathlib.Path(os.getcwd()).name
+is_home = pagename == "_home"
 parent_distdir = pathlib.Path("../dist")
-finaldest = parent_distdir / pagename
+finaldest = parent_distdir if is_home else (parent_distdir / pagename)
 
 
 def wasm_handler(args):
@@ -45,9 +46,18 @@ def html_handler(args):
 
 
 def dist_handler(args):
-    if finaldest.exists():
-        print(f"rm -rf {finaldest}")
-        shutil.rmtree(finaldest)
+    removal_list = (
+        [finaldest / "index.html", finaldest / "assets", finaldest / "static"]
+        if is_home
+        else [finaldest]
+    )
+    for path in removal_list:
+        if path.is_file():
+            print(f"rm {path}")
+            path.unlink()
+        if path.is_dir():
+            print(f"rm -r {path}")
+            shutil.rmtree(path)
     print(f"mkdir -p {finaldest}")
     finaldest.mkdir(parents=True, exist_ok=True)
     copylist = ["index.html"]

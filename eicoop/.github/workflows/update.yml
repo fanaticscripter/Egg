@@ -9,7 +9,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Download updater
         run: |
           url="$(curl -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" -fsS https://api.github.com/repos/fanaticscripter/CoopTracker/releases/latest | jq -r '.assets[].browser_download_url' | grep linux_amd64)"

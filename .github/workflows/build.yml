@@ -86,7 +86,7 @@ jobs:
 
   # No TS type checking for faster deployment.
   wasmegg-fastbuild:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     defaults:
       run:
         working-directory: wasmegg
@@ -164,7 +164,7 @@ jobs:
 
   # With TS type checking.
   wasmegg-fullbuild:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     defaults:
       run:
         working-directory: wasmegg

@@ -25,7 +25,7 @@
         >
       </p>
       <p class="text-gray-500 dark:text-gray-400 text-xs">
-        New prophecy egg contracts appear every 3 weeks.
+        As of 10/30/22, a new prophecy egg will appear in the first contract of each month.
       </p>
     </div>
   </div>

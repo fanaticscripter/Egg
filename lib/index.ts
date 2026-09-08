@@ -1,5 +1,6 @@
 export * from './api';
 export * from './artifacts';
+export * from './contracts';
 export * from './devmode';
 export * from './earning_bonus';
 export * from './eggs';

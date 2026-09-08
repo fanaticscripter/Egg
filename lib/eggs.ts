@@ -8,8 +8,12 @@ export function eggName(egg: ei.Egg): string {
     .join(' ');
 }
 
-export function eggValue(egg: ei.Egg): number {
+// Undefined for eggs whose value isn't a constant of the game: a custom egg
+// carries its own value in the CustomEgg the API serves alongside it.
+export function eggValue(egg: ei.Egg): number | undefined {
   switch (egg) {
+    case ei.Egg.CUSTOM_EGG:
+      return undefined;
     case ei.Egg.EDIBLE:
       return 0.1;
     case ei.Egg.SUPERFOOD:
@@ -65,6 +69,9 @@ export function eggValue(egg: ei.Egg): number {
 
 export function eggIconPath(egg: ei.Egg): string {
   switch (egg) {
+    case ei.Egg.CUSTOM_EGG:
+      // Custom egg artwork is served per-egg by the API, not mirrored here.
+      return 'egginc/egg_unknown.png';
     case ei.Egg.EDIBLE:
       return 'egginc/egg_edible.png';
     case ei.Egg.SUPERFOOD:

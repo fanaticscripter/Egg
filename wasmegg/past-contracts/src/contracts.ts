@@ -1,4 +1,4 @@
-import { ei, decodeMessage } from 'lib';
+import { ei, decodeMessage, getLocalContractGoals } from 'lib';
 import contractProtos from './contracts.json';
 
 export enum ContractLeague {
@@ -96,13 +96,11 @@ function newUserContract(
   const isCoop = !!props.maxCoopSize && props.maxCoopSize > 1;
   const coopCode = contract.coopIdentifier || null;
   const league: ContractLeague = contract.league || 0;
-  let hasLeagues = false;
-  let goals = props.goals;
-  if (props.goalSets && props.goalSets.length > league) {
-    hasLeagues = true;
-    goals = props.goalSets[league].goals;
-  }
-  if (!goals || goals.length === 0) {
+  // Graded contracts routinely carry league goal sets too, so goal sets only
+  // mean leagues on a contract that has no grades.
+  const hasLeagues = !props.gradeSpecs?.length && !!props.goalSets?.[league]?.goals?.length;
+  const goals = getLocalContractGoals(contract);
+  if (goals.length === 0) {
     throw new Error(`no goals found for contract ${id}`);
   }
   const numAvailableGoals = goals.length;

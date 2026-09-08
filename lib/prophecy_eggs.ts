@@ -1,3 +1,4 @@
+import { getLocalContractGoals } from './contracts';
 import { ei } from './proto';
 import { eggName } from './eggs';
 
@@ -97,12 +98,8 @@ export function getProphecyEggsProgressFromContracts(
   let numPEContractsCompleted = 0;
   for (const contract of contracts) {
     const props = contract.contract!;
-    const league = contract.league || 0;
-    let goals = props.goals;
-    if (props.goalSets && props.goalSets.length > league) {
-      goals = props.goalSets[league].goals;
-    }
-    if (!goals || goals.length === 0) {
+    const goals = getLocalContractGoals(contract);
+    if (goals.length === 0) {
       throw new Error(`no goals found for contract ${props.identifier!}`);
     }
     let isPEContract = false;

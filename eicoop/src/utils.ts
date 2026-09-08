@@ -29,6 +29,9 @@ export function iconURL(relpath: string, size: number | string = 'orig'): string
 
 export function eggTooltip(egg: ei.Egg): string {
   const value = eggValue(egg);
+  if (value === undefined) {
+    return `${eggName(egg)} Egg`;
+  }
   const valueDisplay =
     value < 0.01
       ? value.toFixed(7)

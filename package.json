@@ -13,6 +13,7 @@
     "wasmegg/enlightenment",
     "wasmegg/events",
     "wasmegg/inventory-visualizer",
+    "wasmegg/loot-analysis",
     "wasmegg/loot-simulator",
     "wasmegg/mission-list",
     "wasmegg/past-contracts",

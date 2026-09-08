@@ -253,6 +253,8 @@ export default {
       },
       legend: {
         left: 'left',
+        // echarts 5 defaulted a vertical legend to the top; 6 centres it.
+        top: 'top',
         orient: 'vertical',
         selected: {
           'Artifacts (Rare)': false,

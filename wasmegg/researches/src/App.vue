@@ -107,7 +107,7 @@ export default defineComponent({
     });
 
     const query = ref(sampleQuery);
-    const eventBus = mitt();
+    const eventBus = mitt<{ getValue: void }>();
     const submitQuery = () => {
       eventBus.emit('getValue');
     };

@@ -49,7 +49,7 @@ import { Emitter } from 'mitt';
 import { Inventory, requestFirstContact, UserBackupEmptyError } from 'lib';
 import { useSectionVisibility } from 'ui/composables/section_visibility';
 import { reportLegendaries } from '@/lib';
-import { REPORT_LEGENDARIES } from '@/events';
+import { Events, REPORT_LEGENDARIES } from '@/events';
 import CollapsibleSection from '@/components/CollapsibleSection.vue';
 import PlayerCard from '@/components/PlayerCard.vue';
 import ActiveMissionsReport from '@/components/ActiveMissionsReport.vue';
@@ -74,7 +74,7 @@ export default defineComponent({
       required: true,
     },
     eventBus: {
-      type: Object as PropType<Emitter>,
+      type: Object as PropType<Emitter<Events>>,
       required: true,
     },
   },

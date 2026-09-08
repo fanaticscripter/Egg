@@ -35,6 +35,8 @@
 import { defineComponent, ref } from 'vue';
 import mitt from 'mitt';
 
+import { Events } from '@/events';
+
 import { getSavedPlayerID, savePlayerID } from 'lib';
 
 import BaseErrorBoundary from 'ui/components/BaseErrorBoundary.vue';
@@ -63,7 +65,7 @@ export default defineComponent({
       refreshId.value = Date.now();
       savePlayerID(id);
     };
-    const eventBus = mitt();
+    const eventBus = mitt<Events>();
     return {
       playerId,
       refreshId,

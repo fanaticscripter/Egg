@@ -51,12 +51,12 @@ import { defineComponent, PropType, ref, toRefs } from 'vue';
 import { Emitter } from 'mitt';
 
 import { getLegendariesStudyPreference, recordLegendariesStudyPreference } from '@/lib';
-import { REPORT_LEGENDARIES } from '@/events';
+import { Events, REPORT_LEGENDARIES } from '@/events';
 
 export default defineComponent({
   props: {
     eventBus: {
-      type: Object as PropType<Emitter>,
+      type: Object as PropType<Emitter<Events>>,
       required: true,
     },
   },

@@ -10,16 +10,16 @@
     "lint": "eslint --ext .js,.ts,.vue src"
   },
   "dependencies": {
-    "@headlessui/vue": "^1.4.1",
+    "@headlessui/vue": "^1.7.23",
     "@heroicons/vue": "^1.0.4",
-    "copy-text-to-clipboard": "^3.0.1",
+    "copy-text-to-clipboard": "^3.2.2",
     "dayjs": "^1.10.6",
     "html2canvas": "^1.0.0",
     "lib": ">=0.1.0",
-    "scroll-into-view-if-needed": "^2.2.28",
+    "scroll-into-view-if-needed": "^3.1.0",
     "vue": "^3.5.42",
     "vue-router": "^5.3.1",
-    "vue-tippy": "^6.0.0-alpha.35"
+    "vue-tippy": "^6.7.1"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.3.4",

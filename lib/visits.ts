@@ -55,7 +55,7 @@ function getNumber(key: string): number | undefined {
       throw new Error('not a number');
     }
     return x;
-  } catch (err) {
+  } catch {
     console.warn(`invalid ${key}: ${s}`);
     return undefined;
   }

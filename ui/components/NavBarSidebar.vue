@@ -222,6 +222,8 @@ const entries: ({
 
 export default defineComponent({
   components: {
+    // Dialog is headlessui's name for this component, not the HTML element.
+    // eslint-disable-next-line vue/no-reserved-component-names
     Dialog,
     DialogOverlay,
     TransitionChild,

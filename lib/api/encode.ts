@@ -22,6 +22,6 @@ export function encodeMessage(
     const buf = message.encode(messageObj).finish();
     return btoa(uint8ArrayToBinaryString(buf));
   } catch (e) {
-    throw new Error(`Encoding ${JSON.stringify(messageObj)}: ${e}.`);
+    throw new Error(`Encoding ${JSON.stringify(messageObj)}: ${e}.`, { cause: e });
   }
 }

@@ -47,14 +47,17 @@ export async function request(endpoint: string, encodedPayload: string): Promise
     return text;
   } catch (e) {
     if (e instanceof Error && e.name === 'AbortError') {
-      throw new Error(`POST ${url} data=${encodedPayload}: timeout after ${TIMEOUT}ms.`);
+      throw new Error(`POST ${url} data=${encodedPayload}: timeout after ${TIMEOUT}ms.`, {
+        cause: e,
+      });
     } else if (e instanceof TypeError) {
       throw new TypeError(
         `POST ${url} data=${encodedPayload}: ${e} ` +
-          `(please check any ad/content blocking solution you might be using, e.g. uBlock, Brave, Pi-hole, NextDNS, etc.)`
+          `(please check any ad/content blocking solution you might be using, e.g. uBlock, Brave, Pi-hole, NextDNS, etc.)`,
+        { cause: e }
       );
     } else {
-      throw new Error(`POST ${url} data=${encodedPayload}: ${e}`);
+      throw new Error(`POST ${url} data=${encodedPayload}: ${e}`, { cause: e });
     }
   }
 }

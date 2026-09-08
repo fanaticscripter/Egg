@@ -48,7 +48,7 @@ export function decodeMessage(
       binary = atob(encoded);
     }
   } catch (e) {
-    throw new Error(`Error decoding input as base64: ${e}`);
+    throw new Error(`Error decoding input as base64: ${e}`, { cause: e });
   }
   const decoded = message.decode(binaryStringToUint8Array(binary));
   return options?.toJSON ? decoded.toJSON() : message.toObject(decoded);

@@ -88,7 +88,7 @@ export default defineComponent({
 </script>
 
 <style scoped>
-::v-deep(textarea#request) {
+:deep(textarea#request) {
   min-height: 3rem !important;
 }
 </style>

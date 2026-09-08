@@ -175,7 +175,7 @@ export default defineComponent({
 </script>
 
 <style scoped>
-::v-deep .w-number-input {
+:deep(.w-number-input) {
   width: 4.5rem;
 }
 </style>

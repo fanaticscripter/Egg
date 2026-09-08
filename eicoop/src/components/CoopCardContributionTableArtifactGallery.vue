@@ -146,7 +146,7 @@ function artifactRarityBgClass(afxRarity: ei.ArtifactSpec.Rarity): string {
   background: radial-gradient(#fffe41, #fffe41, #eeab42);
 }
 
-::v-deep(picture.stone) {
+:deep(picture.stone) {
   position: absolute;
   bottom: 7%;
   height: 17%;
@@ -155,15 +155,15 @@ function artifactRarityBgClass(afxRarity: ei.ArtifactSpec.Rarity): string {
     drop-shadow(-1px 0 0 white);
 }
 
-::v-deep(picture.stone:nth-child(2)) {
+:deep(picture.stone:nth-child(2)) {
   right: 7%;
 }
 
-::v-deep(picture.stone:nth-child(3)) {
+:deep(picture.stone:nth-child(3)) {
   right: 24%;
 }
 
-::v-deep(picture.stone:nth-child(4)) {
+:deep(picture.stone:nth-child(4)) {
   right: 41%;
 }
 </style>

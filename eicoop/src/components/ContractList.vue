@@ -470,15 +470,15 @@ export default defineComponent({
 <style lang="postcss" scoped src="@/css/components/DataTable.css"></style>
 
 <style lang="postcss" scoped>
-::v-deep(.p-datatable-table) {
+:deep(.p-datatable-table) {
   @apply ultrawide:rounded-md overflow-hidden;
 }
 
-::v-deep(.Column__Header--center .p-column-header-content) {
+:deep(.Column__Header--center .p-column-header-content) {
   @apply justify-center;
 }
 
-::v-deep(.p-datatable-row-expansion table) {
+:deep(.p-datatable-row-expansion table) {
   @apply min-w-0;
 }
 </style>

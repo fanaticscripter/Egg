@@ -129,9 +129,12 @@ export async function requestCoopStatus(
     encodedResponsePayload,
     true
   ) as ei.IContractCoopStatusResponse;
-  if (!status.localTimestamp) {
-    status.localTimestamp = Date.now() / 1000;
-  }
+  // localTimestamp means "when this snapshot was taken", which for a response
+  // we just fetched is now. It is a field the game fills in client side; taking
+  // whatever the server happens to put on the wire there has it come back as a
+  // small constant, which dates every coop to 1970 and breaks the contract
+  // lookup that keys off seconds_remaining.
+  status.localTimestamp = Date.now() / 1000;
   return status;
 }
 

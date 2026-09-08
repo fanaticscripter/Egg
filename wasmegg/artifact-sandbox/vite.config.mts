@@ -6,11 +6,11 @@ import vueJsx from '@vitejs/plugin-vue-jsx';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/artifact-explorer/',
+  base: '/artifact-sandbox/',
   resolve: {
     alias: {
-      '@': path.resolve(__dirname, './src'),
-      ui: path.resolve(__dirname, '../../ui'),
+      '@': path.resolve(import.meta.dirname, './src'),
+      ui: path.resolve(import.meta.dirname, '../../ui'),
     },
   },
   plugins: [vue(), vueJsx()],

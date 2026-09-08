@@ -1,6 +1,6 @@
 import path from 'path';
 import process from 'process';
-import { ConfigEnv, UserConfigExport } from 'vite';
+import type { ConfigEnv, UserConfigExport } from 'vite';
 import vue from '@vitejs/plugin-vue';
 import { viteMockServe } from 'vite-plugin-mock';
 
@@ -10,8 +10,8 @@ import { viteMockServe } from 'vite-plugin-mock';
 export default ({ command }: ConfigEnv): UserConfigExport => ({
   resolve: {
     alias: {
-      '@': path.resolve(__dirname, './src'),
-      ui: path.resolve(__dirname, '../ui'),
+      '@': path.resolve(import.meta.dirname, './src'),
+      ui: path.resolve(import.meta.dirname, '../ui'),
     },
   },
   plugins: [

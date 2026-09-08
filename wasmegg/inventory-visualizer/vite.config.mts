@@ -5,11 +5,11 @@ import vue from '@vitejs/plugin-vue';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/events/',
+  base: '/inventory-visualizer/',
   resolve: {
     alias: {
-      '@': path.resolve(__dirname, './src'),
-      ui: path.resolve(__dirname, '../../ui'),
+      '@': path.resolve(import.meta.dirname, './src'),
+      ui: path.resolve(import.meta.dirname, '../../ui'),
     },
   },
   plugins: [vue()],

@@ -1,15 +1,16 @@
 import { ei } from 'lib';
 
-const enumNames = [
-  'AdNetwork',
-  'DeviceFormFactor',
-  'Egg',
-  'FarmType',
-  'GoalType',
-  'Platform',
-  'RewardType',
-] as const;
-export type MessageName = Exclude<keyof typeof ei, typeof enumNames[number]>;
+// ei exports a class per message and a plain object per enum; only the former
+// can encode and decode, which is what this explorer does with them.
+type MessageNames<T> = {
+  [K in keyof T]: T[K] extends { encode: unknown; decode: unknown } ? K : never;
+}[keyof T];
+export type MessageName = MessageNames<typeof ei>;
+
+function isMessage(name: string): name is MessageName {
+  const exported = ei[name as keyof typeof ei] as { decode?: unknown };
+  return typeof exported?.decode === 'function';
+}
 
 const messages: Record<string, MessageName[]> = {
   commonlyInspected: [
@@ -63,15 +64,8 @@ const seen = ([] as MessageName[]).concat(
   messages.otherCoopRequestResponse
 );
 for (const name in ei) {
-  // Make sure we only pick up capitalized names just in case some lower case
-  // helpers are introduced in the future.
-  if ('ABCDEFGHIJKLMNOPQRSTUVWXYZ'.includes(name[0])) {
-    if (
-      !(enumNames as ReadonlyArray<string>).includes(name) &&
-      !seen.includes(name as MessageName)
-    ) {
-      messages.other.push(name as MessageName);
-    }
+  if (isMessage(name) && !seen.includes(name)) {
+    messages.other.push(name);
   }
 }
 messages.other.sort();

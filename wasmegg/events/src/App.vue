@@ -147,7 +147,7 @@
         forceSingleColumn ? 'Calendar--single-column' : null,
       ]"
     >
-      <template v-for="{ month, date2events } in months" :key="month">
+      <template v-for="{ month, date2events } in months" :key="month.valueOf()">
         <calendar-month
           :month="month"
           :date2events="date2events"

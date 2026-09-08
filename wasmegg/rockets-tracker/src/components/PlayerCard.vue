@@ -397,7 +397,7 @@
             v-if="inventory.epicCount > 0"
             class="mt-1 flex flex-wrap justify-center space-y-0.5"
           >
-            <template v-for="family in inventory.catalog" :key="family.id">
+            <template v-for="family in inventory.catalog" :key="family.afxId">
               <template v-for="tier in family.tiers" :key="tier.id">
                 <div
                   v-if="tier.haveEpic > 0"
@@ -422,7 +422,7 @@
             v-if="inventory.legendaryCount > 0"
             class="mt-1 flex flex-wrap justify-center space-y-0.5"
           >
-            <template v-for="family in inventory.catalog" :key="family.id">
+            <template v-for="family in inventory.catalog" :key="family.afxId">
               <template v-for="tier in family.tiers" :key="tier.id">
                 <div
                   v-if="tier.haveLegendary > 0"

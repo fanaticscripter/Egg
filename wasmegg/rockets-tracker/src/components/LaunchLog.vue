@@ -18,7 +18,7 @@
         Click on a mission to bring up the details view, including artifacts received from it.
       </div>
       <template v-if="filteredLaunchLog.length > 0">
-        <template v-for="date in filteredLaunchLog" :key="date.date">
+        <template v-for="date in filteredLaunchLog" :key="date.date.valueOf()">
           <div class="my-2 text-sm font-medium text-gray-900">{{ date.dateDisplay }}</div>
           <div class="grid grid-cols-1 gap-x-6 gap-y-2 sm:grid-cols-2 lg:grid-cols-3">
             <div v-for="mission in date.missions" :key="mission.id">

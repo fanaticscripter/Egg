@@ -266,6 +266,12 @@ export default defineComponent({
           if (currentRunId !== runId) {
             return;
           }
+          if (blob === null) {
+            generateImageErrored.value = true;
+            generateImageError.value = 'canvas.toBlob() produced no blob';
+            console.error('error generating image: canvas.toBlob() produced no blob');
+            return;
+          }
           if (canvas.width !== 0) {
             placeholderAspectRatio.value = canvas.height / canvas.width;
           }

@@ -14,12 +14,14 @@
   "devDependencies": {
     "@babel/core": "^7.29.7",
     "@babel/plugin-transform-modules-commonjs": "^7.29.7",
+    "@jest/globals": "^30.5.1",
     "@types/jest": "^30.0.0",
     "@types/lunr": "^2.3.4",
     "babel-jest": "^30.5.1",
     "jest": "^30.5.1",
     "protobufjs-cli": "^1.0.0",
-    "ts-jest": "^29.4.12"
+    "ts-jest": "^29.4.12",
+    "vue": "^3.5.42"
   },
   "scripts": {
     "test": "jest"

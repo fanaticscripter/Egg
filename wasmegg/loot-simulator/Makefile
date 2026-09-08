@@ -9,21 +9,21 @@ data:
 	go run .
 
 build: data
-	yarn build
+	pnpm run build
 
 dist: build
 	../_tools/build.py dist --additional assets --additional static
 
 fastbuild: clean
 	$(MAKE) data
-	yarn fastbuild
+	pnpm run fastbuild
 	../_tools/build.py dist --additional assets --additional static
 
 clean:
 	@$(RM) -r dist src/app-data.json
 
 dev:
-	yarn dev
+	pnpm run dev
 
 serve:
-	yarn serve
+	pnpm run serve

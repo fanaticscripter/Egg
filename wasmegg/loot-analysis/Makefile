@@ -18,7 +18,7 @@ data:
 	go run .
 
 build: data
-	yarn build
+	pnpm run build
 
 freeze: build
 	@$(RM) -r dist.frozen
@@ -28,7 +28,7 @@ clean:
 	@$(RM) -r dist
 
 dev: data
-	yarn dev
+	pnpm run dev
 
 serve:
-	yarn serve
+	pnpm run serve

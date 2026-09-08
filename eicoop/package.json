@@ -16,9 +16,10 @@
     "dayjs": "^1.10.4",
     "hotkeys-js": "^4.0.7",
     "js-sha256": "^1.0.0",
-    "lib": ">=0.1.0",
+    "lib": "workspace:*",
     "primeicons": "^8.0.0",
     "primevue": "^3.8.1",
+    "tippy.js": "^6.3.7",
     "vue": "^3.5.42",
     "vue-router": "^5.3.1",
     "vue-tippy": "^6.7.1"

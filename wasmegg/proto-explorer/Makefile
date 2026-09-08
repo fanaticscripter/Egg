@@ -6,7 +6,7 @@ all: clean
 init:
 
 build: doc
-	yarn build
+	pnpm run build
 
 doc:
 	mkdir -p public/doc
@@ -16,14 +16,14 @@ dist: build
 	../_tools/build.py dist --additional assets --additional static --additional doc
 
 fastbuild: doc
-	yarn fastbuild
+	pnpm run fastbuild
 	../_tools/build.py dist --additional assets --additional static --additional doc
 
 clean:
 	@$(RM) -r public/doc dist
 
 dev:
-	yarn dev
+	pnpm run dev
 
 serve:
-	yarn serve
+	pnpm run serve

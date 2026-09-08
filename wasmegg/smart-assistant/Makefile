@@ -6,20 +6,20 @@ all: clean
 init:
 
 build:
-	yarn build
+	pnpm run build
 
 dist: build
 	../_tools/build.py dist --additional assets --additional static
 
 fastbuild: clean
-	yarn fastbuild
+	pnpm run fastbuild
 	../_tools/build.py dist --additional assets --additional static
 
 clean:
 	@$(RM) -r dist
 
 dev:
-	yarn dev
+	pnpm run dev
 
 serve:
-	yarn serve
+	pnpm run serve

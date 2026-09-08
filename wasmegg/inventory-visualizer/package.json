@@ -13,9 +13,10 @@
     "@headlessui/vue": "^1.7.23",
     "@heroicons/vue": "^1.0.4",
     "fontfaceobserver": "^2.1.0",
-    "lib": ">=0.1.0",
+    "lib": "workspace:*",
     "localforage": "^1.10.0",
     "safari-14-idb-fix": "^3.0.0",
+    "tippy.js": "^6.3.7",
     "vue": "^3.5.42",
     "vue-tippy": "^6.7.1"
   },

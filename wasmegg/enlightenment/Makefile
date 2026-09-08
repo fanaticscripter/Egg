@@ -6,7 +6,7 @@ all: clean
 init:
 
 build: data
-	yarn build
+	pnpm run build
 
 data:
 	go run .
@@ -16,14 +16,14 @@ dist: build
 
 fastbuild: clean
 	$(MAKE) data
-	yarn fastbuild
+	pnpm run fastbuild
 	../_tools/build.py dist --additional assets --additional static
 
 clean:
 	@$(RM) -r dist src/lib/catalog.json
 
 dev:
-	yarn dev
+	pnpm run dev
 
 serve:
-	yarn serve
+	pnpm run serve

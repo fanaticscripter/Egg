@@ -14,7 +14,8 @@
     "@heroicons/vue": "^1.0.4",
     "csv-stringify": "^6.8.3",
     "dayjs": "^1.10.4",
-    "lib": ">=0.1.0",
+    "lib": "workspace:*",
+    "tippy.js": "^6.3.7",
     "vue": "^3.5.42",
     "vue-tippy": "^6.7.1"
   },

@@ -1,28 +1,9 @@
 {
   "private": true,
+  "packageManager": "pnpm@12.3.4",
   "scripts": {
     "lint": "eslint 'lib/**/*.{js,ts,vue}' 'ui/**/*.{js,ts,vue}'"
   },
-  "workspaces": [
-    "lib",
-    "eicoop",
-    "wasmegg/_home",
-    "wasmegg/artifact-explorer",
-    "wasmegg/artifact-sandbox",
-    "wasmegg/consumption-sheet",
-    "wasmegg/enlightenment",
-    "wasmegg/events",
-    "wasmegg/inventory-visualizer",
-    "wasmegg/loot-analysis",
-    "wasmegg/loot-simulator",
-    "wasmegg/mission-list",
-    "wasmegg/past-contracts",
-    "wasmegg/proto-explorer",
-    "wasmegg/researches",
-    "wasmegg/rockets-tracker",
-    "wasmegg/smart-assistant",
-    "wasmegg/shell-company"
-  ],
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "eslint": "^10.10.0",

@@ -33,7 +33,6 @@
     "esbuild": "^0.28.0",
     "mockjs": "^1.1.0",
     "postcss": "^8.3.9",
-    "postcss-inline-svg": "^6.0.0",
     "protobufjs": "^7.0.0",
     "tailwindcss": "^2.2.19",
     "typescript": "^5.9.3",

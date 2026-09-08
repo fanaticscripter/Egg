@@ -434,6 +434,12 @@ message Reward {
   optional double reward_amount = 3;
 }
 
+message GameModifier {
+  optional GameDimension dimension = 1;
+  // Multiplier applied to the dimension.
+  optional double value = 2;
+}
+
 message Contract {
   optional string identifier = 1;
   optional string name = 9;
@@ -454,6 +460,25 @@ message Contract {
   message GoalSet {
     repeated Goal goals = 1;
   }
+
+  repeated GradeSpec grade_specs = 20;
+  message GradeSpec {
+    optional PlayerGrade grade = 1;
+    repeated Goal goals = 2;
+    repeated GameModifier modifiers = 3;
+    optional double length_seconds = 4;
+  }
+
+  enum PlayerGrade {
+    GRADE_UNSET = 0;
+    GRADE_C = 1;
+    GRADE_B = 2;
+    GRADE_A = 3;
+    GRADE_AA = 4;
+    GRADE_AAA = 5;
+  }
+
+  optional string custom_egg_id = 25;
 
   optional bool coop_allowed = 4;
   optional uint32 max_coop_size = 5;
@@ -583,6 +608,7 @@ message ContractCoopStatusResponse {
   }
 
   optional double local_timestamp = 12;
+  optional Contract.PlayerGrade grade = 17;
 
   enum MemberStatus {
     VALID = 0;
@@ -1698,6 +1724,8 @@ enum Egg {
   WATERBALLOON = 102;
   FIREWORK = 103;
   PUMPKIN = 104;
+  // Artwork and name live in Contract.custom_egg_id, not in this enum.
+  CUSTOM_EGG = 200;
   UNKNOWN = 1000;
 }
 
@@ -1710,6 +1738,19 @@ enum FarmType {
 enum GoalType {
   EGGS_LAID = 1;
   UNKNOWN_GOAL = 100;
+}
+
+enum GameDimension {
+  INVALID = 0;
+  EARNINGS = 1;
+  AWAY_EARNINGS = 2;
+  INTERNAL_HATCHERY_RATE = 3;
+  EGG_LAYING_RATE = 4;
+  SHIPPING_CAPACITY = 5;
+  HAB_CAPACITY = 6;
+  VEHICLE_COST = 7;
+  HAB_COST = 8;
+  RESEARCH_COST = 9;
 }
 
 enum RewardType {

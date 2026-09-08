@@ -5,18 +5,15 @@ init-targets = $(addprefix init-,$(targets))
 fastbuild-targets = $(addprefix fastbuild-,$(targets))
 clean-targets = $(addprefix clean-,$(targets))
 
-.PHONY: all init clean $(targets) $(init-targets) $(clean-targets) update-loot-data
+.PHONY: all init clean $(targets) $(init-targets) $(clean-targets)
 
 all: $(targets)
 	netlify-headers-expander dist
 
-init: $(init-targets) update-loot-data
+init: $(init-targets)
 
 fastbuild: $(fastbuild-targets)
 	netlify-headers-expander dist
-
-update-loot-data:
-	curl -o _common/loot/mission_reward_count.json https://api.ei.mikit.app/mission_reward_count.json
 
 clean: $(clean-targets)
 

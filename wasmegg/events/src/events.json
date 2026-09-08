@@ -1,0 +1,7498 @@
+[
+  {
+    "id": "covid-1-1-pres",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1609517284.8757882,
+    "endTimestamp": 1609607284.8757882
+  },
+  {
+    "id": "covid-1-1",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1609517288.348589,
+    "endTimestamp": 1609783102.0224159
+  },
+  {
+    "id": "covid-1-2",
+    "type": "earnings-boost",
+    "multiplier": 3,
+    "message": "3x EARNINGS!",
+    "startTimestamp": 1609605162.8936179,
+    "endTimestamp": 1609695162.8936179
+  },
+  {
+    "id": "covid-1-3",
+    "type": "gift-boost",
+    "multiplier": 3,
+    "message": "3x GIFTS!",
+    "startTimestamp": 1609694088.543245,
+    "endTimestamp": 1609784088.543245
+  },
+  {
+    "id": "covid-1-4",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1609781523.102153,
+    "endTimestamp": 1609871523.102153
+  },
+  {
+    "id": "event-1-5",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1609868040.438395,
+    "endTimestamp": 1609958040.438395
+  },
+  {
+    "id": "event-1-6",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1609953273.1091537,
+    "endTimestamp": 1610043273.1091537
+  },
+  {
+    "id": "event-1-7",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1610040074.958754,
+    "endTimestamp": 1610130074.958754
+  },
+  {
+    "id": "event-1-8",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1610124146.802649,
+    "endTimestamp": 1610214146.802649
+  },
+  {
+    "id": "event-1-9-wnd",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1610210943.3767002,
+    "endTimestamp": 1610390943.3767002
+  },
+  {
+    "id": "event-1-9",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1610210957.614912,
+    "endTimestamp": 1610300957.614912
+  },
+  {
+    "id": "event-1-10",
+    "type": "epic-research-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF EPIC RESEARCH!",
+    "startTimestamp": 1610296220.874259,
+    "endTimestamp": 1610386220.874259
+  },
+  {
+    "id": "event-1-11",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1610384685.4426239,
+    "endTimestamp": 1610474685.4426239
+  },
+  {
+    "id": "event-1-12",
+    "type": "gift-boost",
+    "multiplier": 3,
+    "message": "3x GIFTS!",
+    "startTimestamp": 1610472574.502249,
+    "endTimestamp": 1610562574.502249
+  },
+  {
+    "id": "event-1-13",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1610557682.734541,
+    "endTimestamp": 1610647682.734541
+  },
+  {
+    "id": "event-1-14",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1610643205.9572198,
+    "endTimestamp": 1610733205.9572198
+  },
+  {
+    "id": "event-1-15",
+    "type": "drone-boost",
+    "multiplier": 5,
+    "message": "5x DRONE REWARDS!",
+    "startTimestamp": 1610730469.982185,
+    "endTimestamp": 1610820469.982185
+  },
+  {
+    "id": "event-1-16-wkd",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1610812732.7457302,
+    "endTimestamp": 1610992732.7457302
+  },
+  {
+    "id": "event-1-16",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1610812790.012063,
+    "endTimestamp": 1610902790.012063
+  },
+  {
+    "id": "event-1-17",
+    "type": "earnings-boost",
+    "multiplier": 5,
+    "message": "5x EARNINGS!!!!",
+    "startTimestamp": 1610899635.32471,
+    "endTimestamp": 1610989635.32471
+  },
+  {
+    "id": "event-1-18",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1610991372.4642,
+    "endTimestamp": 1611081372.4642
+  },
+  {
+    "id": "event-1-19",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1611076876.0899353,
+    "endTimestamp": 1611166876.0899353
+  },
+  {
+    "id": "event-1-20",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1611162348.876481,
+    "endTimestamp": 1611252348.876481
+  },
+  {
+    "id": "event-1-21",
+    "type": "gift-boost",
+    "multiplier": 3,
+    "message": "3x GIFTS!",
+    "startTimestamp": 1611249278.8866463,
+    "endTimestamp": 1611339278.8866463
+  },
+  {
+    "id": "event-1-22",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1611333975.986006,
+    "endTimestamp": 1611423975.986006
+  },
+  {
+    "id": "event-1-23-wkd",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1611415094.364005,
+    "endTimestamp": 1611600090.1336849
+  },
+  {
+    "id": "event-1-23",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1611415094.364005,
+    "endTimestamp": 1611506071.756974
+  },
+  {
+    "id": "event-1-24",
+    "type": "boost-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF BOOSTS!",
+    "startTimestamp": 1611503411.6106842,
+    "endTimestamp": 1611593411.6106842
+  },
+  {
+    "id": "event-1-25",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1611594298.7159488,
+    "endTimestamp": 1611684298.7159488
+  },
+  {
+    "id": "event-1-26",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1611680847.4043639,
+    "endTimestamp": 1611770847.4043639
+  },
+  {
+    "id": "event-1-27",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1611767503.8857,
+    "endTimestamp": 1611857503.8857
+  },
+  {
+    "id": "event-1-28",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1611853633.805662,
+    "endTimestamp": 1611943633.805662
+  },
+  {
+    "id": "event-1-29",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1611939928.0131009,
+    "endTimestamp": 1612029928.0131009
+  },
+  {
+    "id": "event-1-30-wkd",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1612022191.798707,
+    "endTimestamp": 1612202191.798707
+  },
+  {
+    "id": "event-1-30",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1612022226.1428618,
+    "endTimestamp": 1612112226.1428618
+  },
+  {
+    "id": "event-1-31",
+    "type": "epic-research-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF EPIC RESEARCH!",
+    "startTimestamp": 1612108338.209933,
+    "endTimestamp": 1612198338.209933
+  },
+  {
+    "id": "event-2-1",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1612200921.637873,
+    "endTimestamp": 1612290921.637873
+  },
+  {
+    "id": "event-2-2",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1612285681.3460698,
+    "endTimestamp": 1612375681.3460698
+  },
+  {
+    "id": "event-2-3",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1612372559.1230803,
+    "endTimestamp": 1612462559.1230803
+  },
+  {
+    "id": "event-2-4",
+    "type": "research-sale",
+    "multiplier": 0.35,
+    "message": "65% OFF RESEARCH!",
+    "startTimestamp": 1612459426.8469598,
+    "endTimestamp": 1612549426.8469598
+  },
+  {
+    "id": "event-2-5",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1612541250.08112,
+    "endTimestamp": 1612631250.08112
+  },
+  {
+    "id": "event-2-6-wkd",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1612625629.619641,
+    "endTimestamp": 1612805629.619641
+  },
+  {
+    "id": "event-2-6",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1612625652.157477,
+    "endTimestamp": 1612715652.157477
+  },
+  {
+    "id": "event-2-7",
+    "type": "gift-boost",
+    "multiplier": 3,
+    "message": "3x GIFTS!",
+    "startTimestamp": 1612715327.708202,
+    "endTimestamp": 1612805327.708202
+  },
+  {
+    "id": "event-2-8",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1612805229.068089,
+    "endTimestamp": 1612895229.068089
+  },
+  {
+    "id": "event-2-9",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!",
+    "startTimestamp": 1612893454.188978,
+    "endTimestamp": 1612983454.188978
+  },
+  {
+    "id": "event-2-10-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!!",
+    "startTimestamp": 1612969837.772002,
+    "endTimestamp": 1613059837.772002
+  },
+  {
+    "id": "event-2-10",
+    "type": "vehicle-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF VEHICLES!",
+    "startTimestamp": 1612969818.526853,
+    "endTimestamp": 1613059818.526853
+  },
+  {
+    "id": "event-2-11",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1613063185.087703,
+    "endTimestamp": 1613153185.087703
+  },
+  {
+    "id": "event-2-12",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1613148825.034002,
+    "endTimestamp": 1613238825.034002
+  },
+  {
+    "id": "event-2-13-wkd",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1613230115.906253,
+    "endTimestamp": 1613410115.906253
+  },
+  {
+    "id": "event-2-13",
+    "type": "prestige-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PRESTIGE!",
+    "startTimestamp": 1613230096.5817182,
+    "endTimestamp": 1613320096.5817182
+  },
+  {
+    "id": "event-2-14",
+    "type": "earnings-boost",
+    "multiplier": 3,
+    "message": "3x EARNINGS!",
+    "startTimestamp": 1613318188.8947632,
+    "endTimestamp": 1613408188.8947632
+  },
+  {
+    "id": "event-2-14-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!!",
+    "startTimestamp": 1613318208.6071048,
+    "endTimestamp": 1613408208.6071048
+  },
+  {
+    "id": "event-2-15",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1613408563.1508079,
+    "endTimestamp": 1613498563.1508079
+  },
+  {
+    "id": "event-2-16",
+    "type": "research-sale",
+    "multiplier": 0.35,
+    "message": "65% OFF RESEARCH!",
+    "startTimestamp": 1613495038.293089,
+    "endTimestamp": 1613585038.293089
+  },
+  {
+    "id": "event-2-17",
+    "type": "vehicle-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF VEHICLES!",
+    "startTimestamp": 1613581562.4723072,
+    "endTimestamp": 1613671562.4723072
+  },
+  {
+    "id": "event-2-18",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1613667850.7031019,
+    "endTimestamp": 1613757850.7031019
+  },
+  {
+    "id": "event-2-19-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!!",
+    "startTimestamp": 1613754713.4303198,
+    "endTimestamp": 1613844713.4303198
+  },
+  {
+    "id": "event-2-19",
+    "type": "drone-boost",
+    "multiplier": 3,
+    "message": "3x DRONE REWARDS!",
+    "startTimestamp": 1613754767.8045511,
+    "endTimestamp": 1613844767.8045511
+  },
+  {
+    "id": "event-2-20-wkd",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1613835953.426344,
+    "endTimestamp": 1614015953.426344
+  },
+  {
+    "id": "event-2-20",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1613835975.760845,
+    "endTimestamp": 1613925975.760845
+  },
+  {
+    "id": "event-2-21",
+    "type": "epic-research-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF EPIC RESEARCH!",
+    "startTimestamp": 1613923551.437782,
+    "endTimestamp": 1614013551.437782
+  },
+  {
+    "id": "event-2-22",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1614013208.615637,
+    "endTimestamp": 1614103208.615637
+  },
+  {
+    "id": "event-2-23",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!",
+    "startTimestamp": 1614099680.51228,
+    "endTimestamp": 1614189680.51228
+  },
+  {
+    "id": "event-2-24",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1614186144.1353538,
+    "endTimestamp": 1614276144.1353538
+  },
+  {
+    "id": "event-2-25",
+    "type": "gift-boost",
+    "multiplier": 3,
+    "message": "3x GIFTS!!!",
+    "startTimestamp": 1614272804.78023,
+    "endTimestamp": 1614362804.78023
+  },
+  {
+    "id": "event-2-26-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!!",
+    "startTimestamp": 1614357980.371458,
+    "endTimestamp": 1614537980.371458
+  },
+  {
+    "id": "event-2-26",
+    "type": "vehicle-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF VEHICLES!",
+    "startTimestamp": 1614357954.4443638,
+    "endTimestamp": 1614447954.4443638
+  },
+  {
+    "id": "event-2-27-wkd",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1614440977.839153,
+    "endTimestamp": 1614620977.839153
+  },
+  {
+    "id": "event-2-27",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1614440993.545737,
+    "endTimestamp": 1614530993.545737
+  },
+  {
+    "id": "event-2-28",
+    "type": "boost-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF BOOSTS!",
+    "startTimestamp": 1614529648.7591188,
+    "endTimestamp": 1614619648.7591188
+  },
+  {
+    "id": "event-3-1",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1614619324.008488,
+    "endTimestamp": 1614709324.008488
+  },
+  {
+    "id": "event-3-2",
+    "type": "drone-boost",
+    "multiplier": 3,
+    "message": "3x DRONE REWARDS!",
+    "startTimestamp": 1614703419.8217576,
+    "endTimestamp": 1614793419.8217576
+  },
+  {
+    "id": "event-3-3",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1614790962.507713,
+    "endTimestamp": 1614880962.507713
+  },
+  {
+    "id": "event-3-4",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!!",
+    "startTimestamp": 1614876677.096378,
+    "endTimestamp": 1615056677.096378
+  },
+  {
+    "id": "event-3-4-2",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1614876707.9261312,
+    "endTimestamp": 1614966707.9261312
+  },
+  {
+    "id": "event-3-5",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1614964590.8219018,
+    "endTimestamp": 1615054590.8219018
+  },
+  {
+    "id": "event-3-6-wkd",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1615044766.986536,
+    "endTimestamp": 1615224766.986536
+  },
+  {
+    "id": "event-3-6",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1615044751.46148,
+    "endTimestamp": 1615134751.46148
+  },
+  {
+    "id": "event-3-7",
+    "type": "epic-research-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF EPIC RESEARCH!",
+    "startTimestamp": 1615132450.704643,
+    "endTimestamp": 1615222450.704643
+  },
+  {
+    "id": "event-3-8",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1615222299.474923,
+    "endTimestamp": 1615312299.474923
+  },
+  {
+    "id": "event-3-9",
+    "type": "vehicle-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF VEHICLES!",
+    "startTimestamp": 1615309263.3975372,
+    "endTimestamp": 1615399263.3975372
+  },
+  {
+    "id": "event-3-10",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!",
+    "startTimestamp": 1615395937.2927058,
+    "endTimestamp": 1615485937.2927058
+  },
+  {
+    "id": "event-3-11",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1615481195.5604422,
+    "endTimestamp": 1615571195.5604422
+  },
+  {
+    "id": "event-3-12",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1615567877.500403,
+    "endTimestamp": 1615657877.500403
+  },
+  {
+    "id": "event-3-13-wkd",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1615648897.8952003,
+    "endTimestamp": 1615828897.8952003
+  },
+  {
+    "id": "event-3-13",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1615648910.358876,
+    "endTimestamp": 1615738910.358876
+  },
+  {
+    "id": "event-3-14-2",
+    "type": "mission-fuel",
+    "multiplier": 3.14,
+    "message": "PI x FUELING!!",
+    "startTimestamp": 1615735902.8770611,
+    "endTimestamp": 1615825902.8770611
+  },
+  {
+    "id": "event-3-14",
+    "type": "earnings-boost",
+    "multiplier": 3.14,
+    "message": "PI x EARNINGS!",
+    "startTimestamp": 1615735920.0318189,
+    "endTimestamp": 1615825920.0318189
+  },
+  {
+    "id": "event-3-15",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1615823274.045033,
+    "endTimestamp": 1615913274.045033
+  },
+  {
+    "id": "event-3-16",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1615910508.525383,
+    "endTimestamp": 1616000508.525383
+  },
+  {
+    "id": "event-3-17",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1615996669.816224,
+    "endTimestamp": 1616086669.816224
+  },
+  {
+    "id": "event-3-18",
+    "type": "vehicle-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF VEHICLES!",
+    "startTimestamp": 1616083071.3312068,
+    "endTimestamp": 1616173071.3312068
+  },
+  {
+    "id": "event-3-19",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1616170009.5972261,
+    "endTimestamp": 1616260009.5972261
+  },
+  {
+    "id": "event-3-20-wkd",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1616250484.3507695,
+    "endTimestamp": 1616430484.3507695
+  },
+  {
+    "id": "event-3-20",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1616250466.6964839,
+    "endTimestamp": 1616340466.6964839
+  },
+  {
+    "id": "event-3-21",
+    "type": "epic-research-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF EPIC RESEARCH!",
+    "startTimestamp": 1616338881.605061,
+    "endTimestamp": 1616428881.605061
+  },
+  {
+    "id": "event-3-22",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1616430714.196662,
+    "endTimestamp": 1616520714.196662
+  },
+  {
+    "id": "event-3-23",
+    "type": "drone-boost",
+    "multiplier": 5,
+    "message": "5x DRONE REWARDS!",
+    "startTimestamp": 1616514928.9731462,
+    "endTimestamp": 1616604928.9731462
+  },
+  {
+    "id": "event-3-24",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!",
+    "startTimestamp": 1616601932.5049431,
+    "endTimestamp": 1616691932.5049431
+  },
+  {
+    "id": "event-3-25",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1616688348.041707,
+    "endTimestamp": 1616778348.041707
+  },
+  {
+    "id": "event-3-26",
+    "type": "vehicle-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF VEHICLES!",
+    "startTimestamp": 1616789419.797493,
+    "endTimestamp": 1616864349.6428359
+  },
+  {
+    "id": "event-3-27-wknd",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1616856119.166248,
+    "endTimestamp": 1617036119.166248
+  },
+  {
+    "id": "event-3-27",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1616856103.4906201,
+    "endTimestamp": 1616946103.4906201
+  },
+  {
+    "id": "event-3-28-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!!",
+    "startTimestamp": 1616945126.182792,
+    "endTimestamp": 1617125126.182792
+  },
+  {
+    "id": "event-3-28",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1616945091.7663958,
+    "endTimestamp": 1617035091.7663958
+  },
+  {
+    "id": "event-3-29",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1617034180.5331397,
+    "endTimestamp": 1617124180.5331397
+  },
+  {
+    "id": "event-3-30",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1617120243.157762,
+    "endTimestamp": 1617210243.157762
+  },
+  {
+    "id": "event-3-31",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1617206461.882314,
+    "endTimestamp": 1617296461.882314
+  },
+  {
+    "id": "event-4-1",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1617292579.9831488,
+    "endTimestamp": 1617382579.9831488
+  },
+  {
+    "id": "event-4-2",
+    "type": "research-sale",
+    "multiplier": 0.4,
+    "message": "60% OFF RESEARCH!",
+    "startTimestamp": 1617381041.5349178,
+    "endTimestamp": 1617471041.5349178
+  },
+  {
+    "id": "event-4-3-w",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1617461329.5257902,
+    "endTimestamp": 1617641329.5257902
+  },
+  {
+    "id": "event-4-3",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1617461346.557208,
+    "endTimestamp": 1617551346.557208
+  },
+  {
+    "id": "event-4-4-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!!",
+    "startTimestamp": 1617549131.7030027,
+    "endTimestamp": 1617729131.7030027
+  },
+  {
+    "id": "event-4-4",
+    "type": "epic-research-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF EPIC RESEARCH!",
+    "startTimestamp": 1617549112.8059013,
+    "endTimestamp": 1617639112.8059013
+  },
+  {
+    "id": "event-4-5",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1617636599.1100872,
+    "endTimestamp": 1617726599.1100872
+  },
+  {
+    "id": "event-4-6",
+    "type": "vehicle-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF VEHICLES!",
+    "startTimestamp": 1617724767.402941,
+    "endTimestamp": 1617814767.402941
+  },
+  {
+    "id": "event-4-7",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1617811825.016931,
+    "endTimestamp": 1617901825.016931
+  },
+  {
+    "id": "event-4-8",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1617898589.49332,
+    "endTimestamp": 1617988589.49332
+  },
+  {
+    "id": "event-4-9",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1617987832.5703201,
+    "endTimestamp": 1618077832.5703201
+  },
+  {
+    "id": "event-4-10-w",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1618068207.6564288,
+    "endTimestamp": 1618248207.6564288
+  },
+  {
+    "id": "event-4-10",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1618068624.8729508,
+    "endTimestamp": 1618158624.8729508
+  },
+  {
+    "id": "event-4-11",
+    "type": "boost-sale",
+    "multiplier": 0.75,
+    "message": "25% OFF BOOSTS!",
+    "startTimestamp": 1618157102.783992,
+    "endTimestamp": 1618247102.783992
+  },
+  {
+    "id": "event-4-12",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1618242512.6614609,
+    "endTimestamp": 1618332512.6614609
+  },
+  {
+    "id": "event-4-13",
+    "type": "research-sale",
+    "multiplier": 0.4,
+    "message": "60% OFF RESEARCH!",
+    "startTimestamp": 1618332374.5340908,
+    "endTimestamp": 1618422374.5340908
+  },
+  {
+    "id": "event-4-14",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!",
+    "startTimestamp": 1618406697.681459,
+    "endTimestamp": 1618503632.514645
+  },
+  {
+    "id": "event-4-15",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1618498977.4710348,
+    "endTimestamp": 1618591878.6095319
+  },
+  {
+    "id": "event-4-16",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1618588834.6188672,
+    "endTimestamp": 1618678834.6188672
+  },
+  {
+    "id": "event-4-17-w",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1618670955.087646,
+    "endTimestamp": 1618850955.087646
+  },
+  {
+    "id": "event-4-17",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1618670967.7836561,
+    "endTimestamp": 1618760967.7836561
+  },
+  {
+    "id": "event-4-18",
+    "type": "epic-research-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF EPIC RESEARCH!",
+    "startTimestamp": 1618759661.524487,
+    "endTimestamp": 1618849661.524487
+  },
+  {
+    "id": "event-4-19",
+    "type": "vehicle-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF VEHICLES!",
+    "startTimestamp": 1618848239.6420686,
+    "endTimestamp": 1618938239.6420686
+  },
+  {
+    "id": "event-4-20",
+    "type": "earnings-boost",
+    "multiplier": 3,
+    "message": "3x EARNINGS!",
+    "startTimestamp": 1618934259.263773,
+    "endTimestamp": 1619024259.263773
+  },
+  {
+    "id": "event-4-21",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1619021904.491393,
+    "endTimestamp": 1619111904.491393
+  },
+  {
+    "id": "event-4-22",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1619103359.624358,
+    "endTimestamp": 1619196328.0354722
+  },
+  {
+    "id": "event-4-23",
+    "type": "research-sale",
+    "multiplier": 0.4,
+    "message": "60% OFF RESEARCH!",
+    "startTimestamp": 1619187839.725781,
+    "endTimestamp": 1619280763.9607449
+  },
+  {
+    "id": "event-4-24-w",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1619274242.909353,
+    "endTimestamp": 1619454242.909353
+  },
+  {
+    "id": "event-4-24",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1619274314.796724,
+    "endTimestamp": 1619364314.796724
+  },
+  {
+    "id": "event-4-25",
+    "type": "earnings-boost",
+    "multiplier": 4,
+    "message": "4x EARNINGS!",
+    "startTimestamp": 1619363500.7006538,
+    "endTimestamp": 1619453500.7006538
+  },
+  {
+    "id": "event-4-26",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!",
+    "startTimestamp": 1619452054.5376449,
+    "endTimestamp": 1619542054.5376449
+  },
+  {
+    "id": "event-4-27",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1619539487.774812,
+    "endTimestamp": 1619629487.774812
+  },
+  {
+    "id": "event-4-28",
+    "type": "vehicle-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF VEHICLES!",
+    "startTimestamp": 1619625890.1064918,
+    "endTimestamp": 1619715890.1064918
+  },
+  {
+    "id": "event-4-29",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1619711461.679558,
+    "endTimestamp": 1619801461.679558
+  },
+  {
+    "id": "event-4-30",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1619798520.3821561,
+    "endTimestamp": 1619888520.3821561
+  },
+  {
+    "id": "event-5-1",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1619881242.3130882,
+    "endTimestamp": 1619971242.3130882
+  },
+  {
+    "id": "event-5-1-w",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1619881343.289752,
+    "endTimestamp": 1620061343.289752
+  },
+  {
+    "id": "event-5-2",
+    "type": "epic-research-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF EPIC RESEARCH!",
+    "startTimestamp": 1619968393.6988592,
+    "endTimestamp": 1620058393.6988592
+  },
+  {
+    "id": "event-5-3",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1620056546.561168,
+    "endTimestamp": 1620146546.561168
+  },
+  {
+    "id": "event-5-4-2",
+    "type": "mission-fuel",
+    "multiplier": 4,
+    "message": "MAY THE 1/4th BE WITH YOU",
+    "startTimestamp": 1620144154.973501,
+    "endTimestamp": 1620234154.973501
+  },
+  {
+    "id": "event-5-4",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1620144110.38421,
+    "endTimestamp": 1620234110.38421
+  },
+  {
+    "id": "event-5-5",
+    "type": "research-sale",
+    "multiplier": 0.35,
+    "message": "65% OFF RESEARCH!",
+    "startTimestamp": 1620229522.42291,
+    "endTimestamp": 1620319522.42291
+  },
+  {
+    "id": "event-5-6",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1620317004.039468,
+    "endTimestamp": 1620407004.039468
+  },
+  {
+    "id": "event-5-7",
+    "type": "vehicle-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF VEHICLES!",
+    "startTimestamp": 1620403081.0635936,
+    "endTimestamp": 1620493081.0635936
+  },
+  {
+    "id": "event-5-8-w",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1620484643.20735,
+    "endTimestamp": 1620664643.20735
+  },
+  {
+    "id": "event-5-8",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1620484622.059349,
+    "endTimestamp": 1620574622.059349
+  },
+  {
+    "id": "event-5-9",
+    "type": "drone-boost",
+    "multiplier": 8,
+    "message": "MOTHER'S DAY DRONES!",
+    "startTimestamp": 1620575883.6674383,
+    "endTimestamp": 1620665883.6674383
+  },
+  {
+    "id": "event-5-10",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1620660752.0649588,
+    "endTimestamp": 1620750752.0649588
+  },
+  {
+    "id": "event-5-11",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!",
+    "startTimestamp": 1620750200.8854728,
+    "endTimestamp": 1620840200.8854728
+  },
+  {
+    "id": "event-5-12-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "TRIPLE FUELING!",
+    "startTimestamp": 1620843330.7253878,
+    "endTimestamp": 1620933330.7253878
+  },
+  {
+    "id": "event-5-12",
+    "type": "boost-sale",
+    "multiplier": 0.9,
+    "message": "10% OFF BOOSTS",
+    "startTimestamp": 1620843408.2929301,
+    "endTimestamp": 1620933408.2929301
+  },
+  {
+    "id": "event-5-13",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1620930331.3230941,
+    "endTimestamp": 1621020331.3230941
+  },
+  {
+    "id": "event-5-14",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1621008128.4096692,
+    "endTimestamp": 1621098128.4096692
+  },
+  {
+    "id": "event-5-15-w",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1621088708.132999,
+    "endTimestamp": 1621268708.132999
+  },
+  {
+    "id": "event-5-15",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1621088728.3672168,
+    "endTimestamp": 1621178728.3672168
+  },
+  {
+    "id": "event-5-16",
+    "type": "epic-research-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF EPIC RESEARCH!",
+    "startTimestamp": 1621175110.0369213,
+    "endTimestamp": 1621265110.0369213
+  },
+  {
+    "id": "event-5-17",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1621265745.129392,
+    "endTimestamp": 1621355745.129392
+  },
+  {
+    "id": "event-5-18",
+    "type": "vehicle-sale",
+    "multiplier": 0.2,
+    "message": "80% OFF VEHICLES!",
+    "startTimestamp": 1621358874.9143088,
+    "endTimestamp": 1621448874.9143088
+  },
+  {
+    "id": "event-5-19",
+    "type": "drone-boost",
+    "multiplier": 3,
+    "message": "3x DRONE REWARDS!",
+    "startTimestamp": 1621440204.836597,
+    "endTimestamp": 1621530204.836597
+  },
+  {
+    "id": "event-5-20-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "TRIPLE FUELING!",
+    "startTimestamp": 1621526210.3199482,
+    "endTimestamp": 1621616210.3199482
+  },
+  {
+    "id": "event-5-20",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1621526232.6094701,
+    "endTimestamp": 1621616232.6094701
+  },
+  {
+    "id": "event-5-21",
+    "type": "earnings-boost",
+    "multiplier": 3,
+    "message": "3x EARNINGS!",
+    "startTimestamp": 1621615118.016099,
+    "endTimestamp": 1621705118.016099
+  },
+  {
+    "id": "event-5-22-w",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1621695758.817785,
+    "endTimestamp": 1621873098.83862
+  },
+  {
+    "id": "event-5-22",
+    "type": "prestige-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PRESTIGE!",
+    "startTimestamp": 1621695716.594978,
+    "endTimestamp": 1621785716.594978
+  },
+  {
+    "id": "event-5-23",
+    "type": "research-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF RESEARCH!",
+    "startTimestamp": 1621783138.4751499,
+    "endTimestamp": 1621873138.4751499
+  },
+  {
+    "id": "event-5-24",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1621872023.253261,
+    "endTimestamp": 1621962023.253261
+  },
+  {
+    "id": "event-5-25",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1621958741.965566,
+    "endTimestamp": 1622048741.965566
+  },
+  {
+    "id": "event-5-26",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1622046958.7262073,
+    "endTimestamp": 1622136958.7262073
+  },
+  {
+    "id": "event-5-27",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1622130643.754454,
+    "endTimestamp": 1622220643.754454
+  },
+  {
+    "id": "event-5-28-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "TRIPLE FUELING!",
+    "startTimestamp": 1622217310.1335611,
+    "endTimestamp": 1622307310.1335611
+  },
+  {
+    "id": "event-5-28",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!",
+    "startTimestamp": 1622217327.93348,
+    "endTimestamp": 1622307327.93348
+  },
+  {
+    "id": "event-5-29-w",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1622299512.687053,
+    "endTimestamp": 1622479512.687053
+  },
+  {
+    "id": "event-5-29",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1622299549.3528728,
+    "endTimestamp": 1622389549.3528728
+  },
+  {
+    "id": "event-5-30",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1622386369.6820452,
+    "endTimestamp": 1622476369.6820452
+  },
+  {
+    "id": "event-5-31",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1622478313.362323,
+    "endTimestamp": 1622568313.362323
+  },
+  {
+    "id": "event-6-1",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1622567072.736547,
+    "endTimestamp": 1622657072.736547
+  },
+  {
+    "id": "event-6-2",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1622649781.5286999,
+    "endTimestamp": 1622739781.5286999
+  },
+  {
+    "id": "event-6-3",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1622739025.948837,
+    "endTimestamp": 1622829025.948837
+  },
+  {
+    "id": "event-6-4-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "TRIPLE FUELING!",
+    "startTimestamp": 1622822886.849923,
+    "endTimestamp": 1623002886.849923
+  },
+  {
+    "id": "event-6-4",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1622822870.664873,
+    "endTimestamp": 1622912870.664873
+  },
+  {
+    "id": "event-6-5-w",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1622912756.508658,
+    "endTimestamp": 1623091146.3564491
+  },
+  {
+    "id": "event-6-5",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1622912756.508658,
+    "endTimestamp": 1623001160.875494
+  },
+  {
+    "id": "event-6-6",
+    "type": "earnings-boost",
+    "multiplier": 4,
+    "message": "4x EARNINGS!",
+    "startTimestamp": 1622996850.013423,
+    "endTimestamp": 1623086850.013423
+  },
+  {
+    "id": "event-6-7",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1623079912.369656,
+    "endTimestamp": 1623169912.369656
+  },
+  {
+    "id": "event-6-8",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1623168844.6514497,
+    "endTimestamp": 1623258844.6514497
+  },
+  {
+    "id": "event-6-9",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!",
+    "startTimestamp": 1623254785.0766299,
+    "endTimestamp": 1623344785.0766299
+  },
+  {
+    "id": "event-6-10",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1623340439.504153,
+    "endTimestamp": 1623430439.504153
+  },
+  {
+    "id": "event-6-11",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1623427459.2012138,
+    "endTimestamp": 1623517459.2012138
+  },
+  {
+    "id": "event-6-12-w",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1623508963.350425,
+    "endTimestamp": 1623688963.350425
+  },
+  {
+    "id": "event-6-12",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1623508979.37606,
+    "endTimestamp": 1623598979.37606
+  },
+  {
+    "id": "event-6-13",
+    "type": "epic-research-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF EPIC RESEARCH!",
+    "startTimestamp": 1623596576.9678838,
+    "endTimestamp": 1623686576.9678838
+  },
+  {
+    "id": "event-6-14",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1623686480.0413792,
+    "endTimestamp": 1623776480.0413792
+  },
+  {
+    "id": "event-6-15",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1623774212.044587,
+    "endTimestamp": 1623864212.044587
+  },
+  {
+    "id": "event-6-16-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "TRIPLE FUELING!",
+    "startTimestamp": 1623860253.76752,
+    "endTimestamp": 1623950253.76752
+  },
+  {
+    "id": "event-6-16",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1623860323.2152312,
+    "endTimestamp": 1623950323.2152312
+  },
+  {
+    "id": "event-6-17",
+    "type": "drone-boost",
+    "multiplier": 3,
+    "message": "3x DRONE REWARDS!",
+    "startTimestamp": 1623946844.707031,
+    "endTimestamp": 1624036844.707031
+  },
+  {
+    "id": "event-6-18",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1624031196.207714,
+    "endTimestamp": 1624121196.207714
+  },
+  {
+    "id": "event-6-19-w",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1624113897.547534,
+    "endTimestamp": 1624293897.547534
+  },
+  {
+    "id": "event-6-19",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1624113911.396224,
+    "endTimestamp": 1624203911.396224
+  },
+  {
+    "id": "event-6-20",
+    "type": "epic-research-sale",
+    "multiplier": 0.75,
+    "message": "25% OFF EPIC RESEARCH!",
+    "startTimestamp": 1624200485.423166,
+    "endTimestamp": 1624290485.423166
+  },
+  {
+    "id": "event-6-21",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1624290369.25227,
+    "endTimestamp": 1624380369.25227
+  },
+  {
+    "id": "event-6-22",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1624376577.666477,
+    "endTimestamp": 1624466577.666477
+  },
+  {
+    "id": "event-6-23",
+    "type": "boost-sale",
+    "multiplier": 0.9,
+    "message": "10% OFF BOOSTS",
+    "startTimestamp": 1624463935.8213701,
+    "endTimestamp": 1624553935.8213701
+  },
+  {
+    "id": "event-6-24",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1624550338.10621,
+    "endTimestamp": 1624640338.10621
+  },
+  {
+    "id": "event-6-25-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "TRIPLE FUELING!",
+    "startTimestamp": 1624636706.426891,
+    "endTimestamp": 1624816706.426891
+  },
+  {
+    "id": "event-6-25",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1624636730.1388729,
+    "endTimestamp": 1624726730.1388729
+  },
+  {
+    "id": "event-6-26-w",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1624719407.327137,
+    "endTimestamp": 1624899407.327137
+  },
+  {
+    "id": "event-6-26",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1624719418.413694,
+    "endTimestamp": 1624809418.413694
+  },
+  {
+    "id": "event-6-27",
+    "type": "epic-research-sale",
+    "multiplier": 0.75,
+    "message": "25% OFF EPIC RESEARCH!",
+    "startTimestamp": 1624804594.959832,
+    "endTimestamp": 1624894594.959832
+  },
+  {
+    "id": "event-6-29",
+    "type": "earnings-boost",
+    "multiplier": 3,
+    "message": "3x EARNINGS!",
+    "startTimestamp": 1624982410.201308,
+    "endTimestamp": 1625072410.201308
+  },
+  {
+    "id": "event-6-30",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1625073851.393934,
+    "endTimestamp": 1625163851.393934
+  },
+  {
+    "id": "event-7-1",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1625154833.3157868,
+    "endTimestamp": 1625244833.3157868
+  },
+  {
+    "id": "event-7-2-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "TRIPLE FUELING!",
+    "startTimestamp": 1625240505.338936,
+    "endTimestamp": 1625500497.6295319
+  },
+  {
+    "id": "event-7-2",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1625240464.2276814,
+    "endTimestamp": 1625330464.2276814
+  },
+  {
+    "id": "event-7-3",
+    "type": "prestige-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PRESTIGE!",
+    "startTimestamp": 1625324384.113422,
+    "endTimestamp": 1625414384.113422
+  },
+  {
+    "id": "event-7-2-w",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1625324505.796621,
+    "endTimestamp": 1625584411.414475
+  },
+  {
+    "id": "event-7-4",
+    "type": "crafting-sale",
+    "multiplier": 0.6,
+    "message": "40% OFF CRAFTING!",
+    "startTimestamp": 1625413368.262768,
+    "endTimestamp": 1625503368.262768
+  },
+  {
+    "id": "event-7-5",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1625505778.595308,
+    "endTimestamp": 1625595778.595308
+  },
+  {
+    "id": "event-7-6",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1625585725,
+    "endTimestamp": 1625675725
+  },
+  {
+    "id": "event-7-6",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1625673387.3614872,
+    "endTimestamp": 1625763387.3614872
+  },
+  {
+    "id": "event-7-8",
+    "type": "boost-sale",
+    "multiplier": 0.9,
+    "message": "10% OFF BOOSTS",
+    "startTimestamp": 1625760813.293708,
+    "endTimestamp": 1625850813.293708
+  },
+  {
+    "id": "event-7-9",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1625847030.1604311,
+    "endTimestamp": 1625937030.1604311
+  },
+  {
+    "id": "event-7-10-w2",
+    "type": "mission-fuel",
+    "multiplier": 4,
+    "message": "QUAD FUELING!",
+    "startTimestamp": 1625928961.031736,
+    "endTimestamp": 1626018961.031736
+  },
+  {
+    "id": "event-7-10-w",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1625928918.715085,
+    "endTimestamp": 1626108918.715085
+  },
+  {
+    "id": "event-7-10",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1625928931.9540508,
+    "endTimestamp": 1626018931.9540508
+  },
+  {
+    "id": "event-7-11",
+    "type": "epic-research-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF EPIC RESEARCH!",
+    "startTimestamp": 1626015570.623234,
+    "endTimestamp": 1626105570.623234
+  },
+  {
+    "id": "event-7-12",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1626102549.7879791,
+    "endTimestamp": 1626192549.7879791
+  },
+  {
+    "id": "event-7-13",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1626192327.025564,
+    "endTimestamp": 1626282327.025564
+  },
+  {
+    "id": "eday-3",
+    "type": "drone-boost",
+    "multiplier": 5,
+    "message": "5x DRONE REWARDS!",
+    "startTimestamp": 1626276551.672921,
+    "endTimestamp": 1626366551.672921
+  },
+  {
+    "id": "eday-2",
+    "type": "mission-fuel",
+    "multiplier": 5,
+    "message": "5x FUELING!",
+    "startTimestamp": 1626276538.0171342,
+    "endTimestamp": 1626366538.0171342
+  },
+  {
+    "id": "eday-1",
+    "type": "piggy-boost",
+    "multiplier": 5,
+    "message": "5x PIGGY GROWTH!!",
+    "startTimestamp": 1626276511.864762,
+    "endTimestamp": 1626366511.864762
+  },
+  {
+    "id": "eday-4",
+    "type": "prestige-boost",
+    "multiplier": 5,
+    "message": "5x PRESTIGE!!!!!",
+    "startTimestamp": 1626276591.937011,
+    "endTimestamp": 1626366591.937011
+  },
+  {
+    "id": "event-7-15",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1626364673.7954252,
+    "endTimestamp": 1626454673.7954252
+  },
+  {
+    "id": "event-7-16",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1626451196.0768108,
+    "endTimestamp": 1626541196.0768108
+  },
+  {
+    "id": "event-7-17-w",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1626533351.288747,
+    "endTimestamp": 1626713351.288747
+  },
+  {
+    "id": "event-7-17",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1626533371.5050871,
+    "endTimestamp": 1626623371.5050871
+  },
+  {
+    "id": "event-7-18",
+    "type": "crafting-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF CRAFTING!",
+    "startTimestamp": 1626619125.863985,
+    "endTimestamp": 1626709125.863985
+  },
+  {
+    "id": "event-7-19",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1626710466.65169,
+    "endTimestamp": 1626800466.65169
+  },
+  {
+    "id": "event-7-20",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1626795740.2765257,
+    "endTimestamp": 1626885740.2765257
+  },
+  {
+    "id": "event-7-21",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1626883230.237984,
+    "endTimestamp": 1626973230.237984
+  },
+  {
+    "id": "event-7-22",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!",
+    "startTimestamp": 1626971387.337217,
+    "endTimestamp": 1627061387.337217
+  },
+  {
+    "id": "event-7-23-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1627053450.280939,
+    "endTimestamp": 1627233450.280939
+  },
+  {
+    "id": "event-7-23",
+    "type": "drone-boost",
+    "multiplier": 5,
+    "message": "5x DRONE REWARDS!",
+    "startTimestamp": 1627053494.199573,
+    "endTimestamp": 1627143494.199573
+  },
+  {
+    "id": "event-7-24",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1627139083.160837,
+    "endTimestamp": 1627229083.160837
+  },
+  {
+    "id": "event-7-24-w",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1627139106.423099,
+    "endTimestamp": 1627319106.423099
+  },
+  {
+    "id": "event-7-25",
+    "type": "epic-research-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF EPIC RESEARCH!",
+    "startTimestamp": 1627224912.81967,
+    "endTimestamp": 1627314912.81967
+  },
+  {
+    "id": "event-7-26",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1627314343.716279,
+    "endTimestamp": 1627404343.716279
+  },
+  {
+    "id": "event-7-27",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1627401662.491049,
+    "endTimestamp": 1627491662.491049
+  },
+  {
+    "id": "event-7-28",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1627487654.183031,
+    "endTimestamp": 1627577654.183031
+  },
+  {
+    "id": "event-7-29",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1627575441.6455529,
+    "endTimestamp": 1627665441.6455529
+  },
+  {
+    "id": "event-7-30",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1627674692.58293,
+    "endTimestamp": 1627764692.58293
+  },
+  {
+    "id": "event-7-31-w",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PIGGY GROWTH!!",
+    "startTimestamp": 1627743177.9746282,
+    "endTimestamp": 1627923177.9746282
+  },
+  {
+    "id": "event-7-31-w2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1627743302.5790527,
+    "endTimestamp": 1627923362.4316459
+  },
+  {
+    "id": "event-7-31",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1627743209.1452377,
+    "endTimestamp": 1627833209.1452377
+  },
+  {
+    "id": "event-8-1",
+    "type": "crafting-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF CRAFTING!",
+    "startTimestamp": 1627831448.867447,
+    "endTimestamp": 1627921448.867447
+  },
+  {
+    "id": "event-8-2",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1627925734.7868242,
+    "endTimestamp": 1628015734.7868242
+  },
+  {
+    "id": "event-8-3",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1628009148.385232,
+    "endTimestamp": 1628099148.385232
+  },
+  {
+    "id": "event-8-4",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1628093353.606627,
+    "endTimestamp": 1628183353.606627
+  },
+  {
+    "id": "event-8-6-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1628268314.3455951,
+    "endTimestamp": 1628448314.3455951
+  },
+  {
+    "id": "event-8-6",
+    "type": "earnings-boost",
+    "multiplier": 3,
+    "message": "TRIPLE EARNINGS!",
+    "startTimestamp": 1628268384.5894217,
+    "endTimestamp": 1628358384.5894217
+  },
+  {
+    "id": "event-8-7",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1628344262.470865,
+    "endTimestamp": 1628436254.5925882
+  },
+  {
+    "id": "event-8-7-w",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1628344382.385753,
+    "endTimestamp": 1628526283.148076
+  },
+  {
+    "id": "event-8-8",
+    "type": "epic-research-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF EPIC RESEARCH!",
+    "startTimestamp": 1628432187.8304608,
+    "endTimestamp": 1628522187.8304608
+  },
+  {
+    "id": "event-8-9",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1628535267.763232,
+    "endTimestamp": 1628625267.763232
+  },
+  {
+    "id": "event-8-10",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1628611441.920286,
+    "endTimestamp": 1628701441.920286
+  },
+  {
+    "id": "event-8-11",
+    "type": "boost-sale",
+    "multiplier": 0.85,
+    "message": "15% OFF BOOSTS!",
+    "startTimestamp": 1628699225.9682891,
+    "endTimestamp": 1628789225.9682891
+  },
+  {
+    "id": "event-8-12",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!",
+    "startTimestamp": 1628784885.863563,
+    "endTimestamp": 1628874885.863563
+  },
+  {
+    "id": "event-8-13-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1628868312.794736,
+    "endTimestamp": 1629048312.794736
+  },
+  {
+    "id": "event-8-13",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1628868353.524693,
+    "endTimestamp": 1628958353.524693
+  },
+  {
+    "id": "event-8-14-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1628952616.1780531,
+    "endTimestamp": 1629132616.1780531
+  },
+  {
+    "id": "event-8-14",
+    "type": "prestige-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PRESTIGE!!!",
+    "startTimestamp": 1628952596.523196,
+    "endTimestamp": 1629042596.523196
+  },
+  {
+    "id": "event-8-15",
+    "type": "crafting-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF CRAFTING!",
+    "startTimestamp": 1629039912.233762,
+    "endTimestamp": 1629129912.233762
+  },
+  {
+    "id": "event-8-16",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1629134730.954771,
+    "endTimestamp": 1629224730.954771
+  },
+  {
+    "id": "event-8-17",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1629215915.787513,
+    "endTimestamp": 1629305915.787513
+  },
+  {
+    "id": "event-8-18",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1629304947.3873482,
+    "endTimestamp": 1629394947.3873482
+  },
+  {
+    "id": "event-8-19",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1629389091.0127752,
+    "endTimestamp": 1629479091.0127752
+  },
+  {
+    "id": "event-8-20-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1629479196.763555,
+    "endTimestamp": 1629659196.763555
+  },
+  {
+    "id": "event-8-20",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1629479303.9754388,
+    "endTimestamp": 1629569303.9754388
+  },
+  {
+    "id": "event-8-21-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1629556865.7447839,
+    "endTimestamp": 1629736865.7447839
+  },
+  {
+    "id": "event-8-21",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1629556886.0823581,
+    "endTimestamp": 1629646886.0823581
+  },
+  {
+    "id": "event-8-22",
+    "type": "epic-research-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF EPIC RESEARCH!",
+    "startTimestamp": 1629644756.483909,
+    "endTimestamp": 1629734756.483909
+  },
+  {
+    "id": "event-8-23",
+    "type": "earnings-boost",
+    "multiplier": 3,
+    "message": "3x EARNINGS!",
+    "startTimestamp": 1629733997.8513398,
+    "endTimestamp": 1629823997.8513398
+  },
+  {
+    "id": "event-8-24",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1629822678.28648,
+    "endTimestamp": 1629912678.28648
+  },
+  {
+    "id": "event-8-25",
+    "type": "drone-boost",
+    "multiplier": 3,
+    "message": "3x DRONE REWARDS!",
+    "startTimestamp": 1629907315.8584912,
+    "endTimestamp": 1629997315.8584912
+  },
+  {
+    "id": "event-8-26",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1629992474.849267,
+    "endTimestamp": 1630082474.849267
+  },
+  {
+    "id": "event-8-27",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1630080032.848119,
+    "endTimestamp": 1630170032.848119
+  },
+  {
+    "id": "event-8-28-3",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1630160974.167253,
+    "endTimestamp": 1630340974.167253
+  },
+  {
+    "id": "event-8-28-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1630160986.4745681,
+    "endTimestamp": 1630340986.4745681
+  },
+  {
+    "id": "event-8-28",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1630161009.7701874,
+    "endTimestamp": 1630251009.7701874
+  },
+  {
+    "id": "event-8-29",
+    "type": "crafting-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF CRAFTING!",
+    "startTimestamp": 1630249376.4853742,
+    "endTimestamp": 1630339376.4853742
+  },
+  {
+    "id": "event-8-30",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1630340374.067703,
+    "endTimestamp": 1630430374.067703
+  },
+  {
+    "id": "event-8-31",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!",
+    "startTimestamp": 1630425003.4613361,
+    "endTimestamp": 1630515003.4613361
+  },
+  {
+    "id": "event-9-1",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1630512177.139176,
+    "endTimestamp": 1630602177.139176
+  },
+  {
+    "id": "event-9-2",
+    "type": "boost-sale",
+    "multiplier": 0.85,
+    "message": "15% OFF BOOSTS!",
+    "startTimestamp": 1630597985.509388,
+    "endTimestamp": 1630687985.509388
+  },
+  {
+    "id": "event-9-3-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1630697249.5467763,
+    "endTimestamp": 1630877249.5467763
+  },
+  {
+    "id": "event-9-3",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1630697268.3940282,
+    "endTimestamp": 1630787268.3940282
+  },
+  {
+    "id": "event-9-4-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1630766383.4743779,
+    "endTimestamp": 1630969769.7641528
+  },
+  {
+    "id": "event-9-4",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1630766383.4743779,
+    "endTimestamp": 1630879780.733217
+  },
+  {
+    "id": "event-9-5",
+    "type": "epic-research-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF EPIC RESEARCH!",
+    "startTimestamp": 1630852753.656253,
+    "endTimestamp": 1630942753.656253
+  },
+  {
+    "id": "event-9-6",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1630946491.702736,
+    "endTimestamp": 1631036491.702736
+  },
+  {
+    "id": "event-9-7",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1631032963.4552898,
+    "endTimestamp": 1631122963.4552898
+  },
+  {
+    "id": "event-9-8",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1631115491.7501888,
+    "endTimestamp": 1631205491.7501888
+  },
+  {
+    "id": "event-9-9",
+    "type": "drone-boost",
+    "multiplier": 5,
+    "message": "5x DRONE REWARDS!",
+    "startTimestamp": 1631201996.8933227,
+    "endTimestamp": 1631291996.8933227
+  },
+  {
+    "id": "event-9-10-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1631291040.8735952,
+    "endTimestamp": 1631471040.8735952
+  },
+  {
+    "id": "event-9-10",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1631291024.834881,
+    "endTimestamp": 1631381024.834881
+  },
+  {
+    "id": "event-9-11-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1631370798.9274483,
+    "endTimestamp": 1631550798.9274483
+  },
+  {
+    "id": "event-9-11",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1631370775.77292,
+    "endTimestamp": 1631460775.77292
+  },
+  {
+    "id": "event-9-12",
+    "type": "crafting-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF CRAFTING!",
+    "startTimestamp": 1631456988.203565,
+    "endTimestamp": 1631546988.203565
+  },
+  {
+    "id": "event-9-13",
+    "type": "earnings-boost",
+    "multiplier": 3,
+    "message": "3x EARNINGS!",
+    "startTimestamp": 1631549659.3706641,
+    "endTimestamp": 1631639659.3706641
+  },
+  {
+    "id": "9-148-31",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!",
+    "startTimestamp": 1631635125.209425,
+    "endTimestamp": 1631725125.209425
+  },
+  {
+    "id": "event-9-15",
+    "type": "gift-boost",
+    "multiplier": 3,
+    "message": "3x GIFTS!",
+    "startTimestamp": 1631721554.9075778,
+    "endTimestamp": 1631811554.9075778
+  },
+  {
+    "id": "event-9-16",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1631807196.292149,
+    "endTimestamp": 1631897196.292149
+  },
+  {
+    "id": "event-9-17-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1631903116.399225,
+    "endTimestamp": 1632083116.399225
+  },
+  {
+    "id": "event-9-17",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1631903100.039714,
+    "endTimestamp": 1631993100.039714
+  },
+  {
+    "id": "event-9-18-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1631975860.871178,
+    "endTimestamp": 1632155860.871178
+  },
+  {
+    "id": "event-9-18",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1631975838.26832,
+    "endTimestamp": 1632065838.26832
+  },
+  {
+    "id": "event-9-19",
+    "type": "epic-research-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF EPIC RESEARCH!",
+    "startTimestamp": 1632063836.5825062,
+    "endTimestamp": 1632153836.5825062
+  },
+  {
+    "id": "event-9-20",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1632154018.097191,
+    "endTimestamp": 1632244018.097191
+  },
+  {
+    "id": "event-9-21",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1632239339.646022,
+    "endTimestamp": 1632329339.646022
+  },
+  {
+    "id": "event-9-22",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1632326038.3366919,
+    "endTimestamp": 1632416038.3366919
+  },
+  {
+    "id": "event-9-23",
+    "type": "earnings-boost",
+    "multiplier": 3,
+    "message": "3x EARNINGS!",
+    "startTimestamp": 1632414511.926855,
+    "endTimestamp": 1632504511.926855
+  },
+  {
+    "id": "event-9-24",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1632500036.5721264,
+    "endTimestamp": 1632590036.5721264
+  },
+  {
+    "id": "event-9-24-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1632500113.7830749,
+    "endTimestamp": 1632680113.7830749
+  },
+  {
+    "id": "event-9-25-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1632580927.4072769,
+    "endTimestamp": 1632760927.4072769
+  },
+  {
+    "id": "event-9-25",
+    "type": "prestige-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PRESTIGE!!!",
+    "startTimestamp": 1632581017.539139,
+    "endTimestamp": 1632671017.539139
+  },
+  {
+    "id": "event-9-26",
+    "type": "crafting-sale",
+    "multiplier": 0.6,
+    "message": "40% OFF CRAFTING!",
+    "startTimestamp": 1632666465.9009619,
+    "endTimestamp": 1632756465.9009619
+  },
+  {
+    "id": "event-9-27",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1632758700.992491,
+    "endTimestamp": 1632848700.992491
+  },
+  {
+    "id": "event-9-28",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1632844938.1607609,
+    "endTimestamp": 1632934938.1607609
+  },
+  {
+    "id": "event-9-29",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1632930826.217742,
+    "endTimestamp": 1633020826.217742
+  },
+  {
+    "id": "event-9-30",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1633017724.400945,
+    "endTimestamp": 1633107724.400945
+  },
+  {
+    "id": "event-10-1",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1633105556.6760373,
+    "endTimestamp": 1633195556.6760373
+  },
+  {
+    "id": "event-10-1-3",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1633105615.2335992,
+    "endTimestamp": 1633195615.2335992
+  },
+  {
+    "id": "event-10-1-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1633105700.375818,
+    "endTimestamp": 1633365580.655485
+  },
+  {
+    "id": "event-10-2-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1633185667.7161138,
+    "endTimestamp": 1633365667.7161138
+  },
+  {
+    "id": "event-10-2",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1633185815.564159,
+    "endTimestamp": 1633279861.224976
+  },
+  {
+    "id": "event-10-3",
+    "type": "epic-research-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF EPIC RESEARCH!",
+    "startTimestamp": 1633273812.2890828,
+    "endTimestamp": 1633363812.2890828
+  },
+  {
+    "id": "event-10-4",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1633363494.304934,
+    "endTimestamp": 1633453494.304934
+  },
+  {
+    "id": "event-10-5",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!!",
+    "startTimestamp": 1633449215.423623,
+    "endTimestamp": 1633539600.01962
+  },
+  {
+    "id": "event-10-6",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1633536000.02295,
+    "endTimestamp": 1633622400.02295
+  },
+  {
+    "id": "event-10-7",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1633622400.082495,
+    "endTimestamp": 1633708800.082495
+  },
+  {
+    "id": "event-10-8-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1633708800.1000512,
+    "endTimestamp": 1633881600.1000512
+  },
+  {
+    "id": "event-10-8",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1633708800.016439,
+    "endTimestamp": 1633795200.016439
+  },
+  {
+    "id": "event-10-9",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1633762800.0349789,
+    "endTimestamp": 1633849200.0349789
+  },
+  {
+    "id": "event-10-9-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1633788000.079767,
+    "endTimestamp": 1633960800.079767
+  },
+  {
+    "id": "event-10-10",
+    "type": "crafting-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF CRAFTING!",
+    "startTimestamp": 1633874400.086349,
+    "endTimestamp": 1633968000.086349
+  },
+  {
+    "id": "event-10-11",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1633968000.018394,
+    "endTimestamp": 1634054400.018394
+  },
+  {
+    "id": "event-10-12",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1634054400.033736,
+    "endTimestamp": 1634140800.033736
+  },
+  {
+    "id": "event-10-13-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1634133600.025578,
+    "endTimestamp": 1634306400.025578
+  },
+  {
+    "id": "event-10-13",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1634140800.081081,
+    "endTimestamp": 1634227200.081081
+  },
+  {
+    "id": "event-10-14",
+    "type": "earnings-boost",
+    "multiplier": 3,
+    "message": "3x EARNINGS!",
+    "startTimestamp": 1634227200.048857,
+    "endTimestamp": 1634313600.048857
+  },
+  {
+    "id": "event-10-15",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1634313600.0198479,
+    "endTimestamp": 1634400000.0198479
+  },
+  {
+    "id": "event-10-16-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1634392800.0770829,
+    "endTimestamp": 1634565600.0770829
+  },
+  {
+    "id": "event-10-16",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1634392800.0202801,
+    "endTimestamp": 1634479200.0202801
+  },
+  {
+    "id": "event-10-17",
+    "type": "epic-research-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF EPIC RESEARCH!",
+    "startTimestamp": 1634479200.190028,
+    "endTimestamp": 1634572800.190028
+  },
+  {
+    "id": "event-10-18",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1634572800.090668,
+    "endTimestamp": 1634659200.090668
+  },
+  {
+    "id": "event-10-19",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1634659200.016403,
+    "endTimestamp": 1634745600.016403
+  },
+  {
+    "id": "event-10-20-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1634745600.059143,
+    "endTimestamp": 1634918400.059143
+  },
+  {
+    "id": "event-10-20",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!!",
+    "startTimestamp": 1634745600.020488,
+    "endTimestamp": 1634832000.020488
+  },
+  {
+    "id": "event-10-21",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1634832000.059109,
+    "endTimestamp": 1634918400.059109
+  },
+  {
+    "id": "event-10-22",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1634918400.017215,
+    "endTimestamp": 1635004800.017215
+  },
+  {
+    "id": "event-10-23-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1634997600.0154302,
+    "endTimestamp": 1635170400.0154302
+  },
+  {
+    "id": "event-10-23",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1634997600.0997334,
+    "endTimestamp": 1635084000.0997334
+  },
+  {
+    "id": "event-10-24",
+    "type": "boost-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF BOOSTS!",
+    "startTimestamp": 1635084000.016129,
+    "endTimestamp": 1635177600.016129
+  },
+  {
+    "id": "event-10-25",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1635177600.042549,
+    "endTimestamp": 1635264000.042549
+  },
+  {
+    "id": "event-10-26",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1635264000.0380712,
+    "endTimestamp": 1635350400.0380712
+  },
+  {
+    "id": "event-10-27-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1635343200.098158,
+    "endTimestamp": 1635516000.098158
+  },
+  {
+    "id": "event-10-27",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1635350400.019103,
+    "endTimestamp": 1635436800.019103
+  },
+  {
+    "id": "event-10-28",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1635436800.016823,
+    "endTimestamp": 1635523200.016823
+  },
+  {
+    "id": "event-10-29",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1635523200.083307,
+    "endTimestamp": 1635609600.083307
+  },
+  {
+    "id": "event-10-30-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1635602400.0158901,
+    "endTimestamp": 1635775200.0158901
+  },
+  {
+    "id": "event-10-30",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1635602400.017268,
+    "endTimestamp": 1635688800.017268
+  },
+  {
+    "id": "event-10-31",
+    "type": "epic-research-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF EPIC RESEARCH!",
+    "startTimestamp": 1635688800.101454,
+    "endTimestamp": 1635782400.101454
+  },
+  {
+    "id": "event-11-1",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1635782400.076919,
+    "endTimestamp": 1635868800.076919
+  },
+  {
+    "id": "event-11-2-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1635868800.0746272,
+    "endTimestamp": 1636041600.0746272
+  },
+  {
+    "id": "event-11-2",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1635868800.017489,
+    "endTimestamp": 1635955200.017489
+  },
+  {
+    "id": "event-11-3",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1635955200.074599,
+    "endTimestamp": 1636041600.074599
+  },
+  {
+    "id": "event-11-04",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1636041600.090336,
+    "endTimestamp": 1636128000.090336
+  },
+  {
+    "id": "event-11-5",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1636128000.068525,
+    "endTimestamp": 1636214400.068525
+  },
+  {
+    "id": "event-11-6-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1636207200.079639,
+    "endTimestamp": 1636380000.079639
+  },
+  {
+    "id": "event-11-6",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1636207200.093724,
+    "endTimestamp": 1636293600.093724
+  },
+  {
+    "id": "event-11-7",
+    "type": "crafting-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF CRAFTING!",
+    "startTimestamp": 1636297200.0803232,
+    "endTimestamp": 1636390800.0803232
+  },
+  {
+    "id": "event-11-8",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1636390800.100604,
+    "endTimestamp": 1636477200.100604
+  },
+  {
+    "id": "event-11-09",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1636477200.101343,
+    "endTimestamp": 1636563600.101343
+  },
+  {
+    "id": "event-11-10",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!!",
+    "startTimestamp": 1636563600.021119,
+    "endTimestamp": 1636650000.021119
+  },
+  {
+    "id": "event-11-11",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1636650000.080409,
+    "endTimestamp": 1636736400.080409
+  },
+  {
+    "id": "event-11-12-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1636736400.0215812,
+    "endTimestamp": 1636909200.0215812
+  },
+  {
+    "id": "event-11-12",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1636736400.017654,
+    "endTimestamp": 1636822800.017654
+  },
+  {
+    "id": "event-11-13-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1636815600.063515,
+    "endTimestamp": 1636988400.063515
+  },
+  {
+    "id": "event-11-13",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1636815600.0204031,
+    "endTimestamp": 1636902000.0204031
+  },
+  {
+    "id": "event-11-14",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1636902000.017928,
+    "endTimestamp": 1636995600.017928
+  },
+  {
+    "id": "event-11-15",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1636995600.015744,
+    "endTimestamp": 1637082000.015744
+  },
+  {
+    "id": "event-11-16",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1637082000.0917358,
+    "endTimestamp": 1637168400.0917358
+  },
+  {
+    "id": "event-11-17-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1637168400.016057,
+    "endTimestamp": 1637341200.016057
+  },
+  {
+    "id": "event-11-17",
+    "type": "hab-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF HEN HOUSES!",
+    "startTimestamp": 1637168400.01704,
+    "endTimestamp": 1637254800.01704
+  },
+  {
+    "id": "event-11-18",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1637254800.016024,
+    "endTimestamp": 1637341200.016024
+  },
+  {
+    "id": "event-11-19",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1637341200.066148,
+    "endTimestamp": 1637427600.066148
+  },
+  {
+    "id": "event-11-20-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1637420400.091261,
+    "endTimestamp": 1637593200.091261
+  },
+  {
+    "id": "event-11-20",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1637420400.015121,
+    "endTimestamp": 1637506800.015121
+  },
+  {
+    "id": "event-11-21",
+    "type": "crafting-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF CRAFTING!",
+    "startTimestamp": 1637506800.019261,
+    "endTimestamp": 1637600400.019261
+  },
+  {
+    "id": "event-11-22",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1637600400.019686,
+    "endTimestamp": 1637686800.019686
+  },
+  {
+    "id": "event-11-23",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1637686800.081145,
+    "endTimestamp": 1637773200.081145
+  },
+  {
+    "id": "event-11-24-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1637773200.081451,
+    "endTimestamp": 1638032400.081451
+  },
+  {
+    "id": "event-11-24",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1637773200.105151,
+    "endTimestamp": 1637859600.105151
+  },
+  {
+    "id": "event-11-25",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1637859600.0171459,
+    "endTimestamp": 1637946000.0171459
+  },
+  {
+    "id": "event-11-26",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1637946000.081199,
+    "endTimestamp": 1638032400.081199
+  },
+  {
+    "id": "event-11-27-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1638025200.0179482,
+    "endTimestamp": 1638198000.0179482
+  },
+  {
+    "id": "event-11-27",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1638025200.075206,
+    "endTimestamp": 1638111600.075206
+  },
+  {
+    "id": "event-11-28",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1638111600.0173302,
+    "endTimestamp": 1638205200.0173302
+  },
+  {
+    "id": "event-11-29",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1638205200.046027,
+    "endTimestamp": 1638291600.046027
+  },
+  {
+    "id": "event-11-30",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!!",
+    "startTimestamp": 1638291600.029011,
+    "endTimestamp": 1638378000.029011
+  },
+  {
+    "id": "event-12-01",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1638378000.024551,
+    "endTimestamp": 1638464400.024551
+  },
+  {
+    "id": "event-12-02",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1638464400.016096,
+    "endTimestamp": 1638550800.016096
+  },
+  {
+    "id": "event-12-03",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1638550800.018073,
+    "endTimestamp": 1638637200.018073
+  },
+  {
+    "id": "event-12-4-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1638635079.344525,
+    "endTimestamp": 1638807600.015956
+  },
+  {
+    "id": "event-12-4",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1638635079.344525,
+    "endTimestamp": 1638721200.015719
+  },
+  {
+    "id": "event-12-5",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1638716400.014248,
+    "endTimestamp": 1638810000.014248
+  },
+  {
+    "id": "event-12-6",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1638810000.01826,
+    "endTimestamp": 1638896400.01826
+  },
+  {
+    "id": "event-12-7",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1638896400.079108,
+    "endTimestamp": 1638982800.079108
+  },
+  {
+    "id": "event-12-8-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1638982800.0888212,
+    "endTimestamp": 1639155600.0888212
+  },
+  {
+    "id": "event-12-8",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1638982800.0190122,
+    "endTimestamp": 1639069200.0190122
+  },
+  {
+    "id": "event-12-9",
+    "type": "earnings-boost",
+    "multiplier": 3,
+    "message": "3x EARNINGS!",
+    "startTimestamp": 1639069200.0887952,
+    "endTimestamp": 1639155600.0887952
+  },
+  {
+    "id": "event-12-10",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1639155600.016486,
+    "endTimestamp": 1639242000.016486
+  },
+  {
+    "id": "event-12-11-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1639238400.01859,
+    "endTimestamp": 1639411200.01859
+  },
+  {
+    "id": "event-12-11",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1639238400.017448,
+    "endTimestamp": 1639324800.017448
+  },
+  {
+    "id": "event-12-12",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1639324800.094367,
+    "endTimestamp": 1639414800.094367
+  },
+  {
+    "id": "event-12-13",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1639414800.090461,
+    "endTimestamp": 1639501200.090461
+  },
+  {
+    "id": "event-12-14",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1639501200.0168679,
+    "endTimestamp": 1639587600.0168679
+  },
+  {
+    "id": "event-12-15",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1639587600.0184379,
+    "endTimestamp": 1639674000.0184379
+  },
+  {
+    "id": "event-12-16",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1639674000.076571,
+    "endTimestamp": 1639760400.076571
+  },
+  {
+    "id": "event-12-17",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1639760400.0901027,
+    "endTimestamp": 1639846800.0901027
+  },
+  {
+    "id": "event-12-18-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1639843200.0227392,
+    "endTimestamp": 1640016000.0227392
+  },
+  {
+    "id": "event-12-18",
+    "type": "prestige-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PRESTIGE!!!",
+    "startTimestamp": 1639843200.0622208,
+    "endTimestamp": 1639929600.0622208
+  },
+  {
+    "id": "event-12-19-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1639929600.018539,
+    "endTimestamp": 1640102400.018539
+  },
+  {
+    "id": "event-12-19",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1639929600.0838306,
+    "endTimestamp": 1640023200.0838306
+  },
+  {
+    "id": "event-12-20",
+    "type": "earnings-boost",
+    "multiplier": 3,
+    "message": "3x EARNINGS!",
+    "startTimestamp": 1640019600.017948,
+    "endTimestamp": 1640106000.017948
+  },
+  {
+    "id": "event-12-21",
+    "type": "hab-sale",
+    "multiplier": 0.2,
+    "message": "80% OFF HEN HOUSES!",
+    "startTimestamp": 1640106000.1011329,
+    "endTimestamp": 1640192400.1011329
+  },
+  {
+    "id": "event-12-22",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!!",
+    "startTimestamp": 1640192400.066678,
+    "endTimestamp": 1640278800.066678
+  },
+  {
+    "id": "event-12-23",
+    "type": "vehicle-sale",
+    "multiplier": 0.2,
+    "message": "80% OFF VEHICLES!",
+    "startTimestamp": 1640278800.017335,
+    "endTimestamp": 1640365200.017335
+  },
+  {
+    "id": "event-12-24-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1640365200.02107,
+    "endTimestamp": 1640624400.02107
+  },
+  {
+    "id": "event-12-24",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1640365200.0231369,
+    "endTimestamp": 1640451600.0231369
+  },
+  {
+    "id": "event-12-25-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1640448000.093838,
+    "endTimestamp": 1640620800.093838
+  },
+  {
+    "id": "event-12-25",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1640448000.0925162,
+    "endTimestamp": 1640534400.0925162
+  },
+  {
+    "id": "event-12-26",
+    "type": "epic-research-sale",
+    "multiplier": 0.6,
+    "message": "40% OFF EPIC RESEARCH!",
+    "startTimestamp": 1640534400.021007,
+    "endTimestamp": 1640624400.021007
+  },
+  {
+    "id": "event-12-27",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1640624400.101679,
+    "endTimestamp": 1640710800.101679
+  },
+  {
+    "id": "event-12-28",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1640710800.019129,
+    "endTimestamp": 1640797200.019129
+  },
+  {
+    "id": "event-12-29-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1640797200.091217,
+    "endTimestamp": 1640970000.091217
+  },
+  {
+    "id": "event-12-29",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1640797200.104936,
+    "endTimestamp": 1640883600.104936
+  },
+  {
+    "id": "event-12-30",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1640883600.01589,
+    "endTimestamp": 1640970000.01589
+  },
+  {
+    "id": "event-12-31",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1640971908.443702,
+    "endTimestamp": 1641059400.0511239
+  },
+  {
+    "id": "event-1-1-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1641052800.019493,
+    "endTimestamp": 1641225600.019493
+  },
+  {
+    "id": "event-1-1",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1641052800.01296,
+    "endTimestamp": 1641139200.01296
+  },
+  {
+    "id": "event-1-2",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1641139428.39273,
+    "endTimestamp": 1641232800.016093
+  },
+  {
+    "id": "event-1-3",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1641229200.087679,
+    "endTimestamp": 1641315600.087679
+  },
+  {
+    "id": "event-1-4",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1641315600.016052,
+    "endTimestamp": 1641402000.016052
+  },
+  {
+    "id": "event-1-5",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!!",
+    "startTimestamp": 1641402000.017178,
+    "endTimestamp": 1641488400.017178
+  },
+  {
+    "id": "event-1-6",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1641488400.0945032,
+    "endTimestamp": 1641574800.0945032
+  },
+  {
+    "id": "event-1-7",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1641574800.053697,
+    "endTimestamp": 1641661200.053697
+  },
+  {
+    "id": "event-1-8-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1641657600.093535,
+    "endTimestamp": 1641830400.093535
+  },
+  {
+    "id": "event-1-8",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1641657600.064793,
+    "endTimestamp": 1641744000.064793
+  },
+  {
+    "id": "event-1-9",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1641744000.086022,
+    "endTimestamp": 1641834000.086022
+  },
+  {
+    "id": "event-1-10",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1641834000.034737,
+    "endTimestamp": 1641920400.034737
+  },
+  {
+    "id": "event-1-11",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1641920400.099545,
+    "endTimestamp": 1642006800.099545
+  },
+  {
+    "id": "event-1-12-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1642006800.0157318,
+    "endTimestamp": 1642266000.0157318
+  },
+  {
+    "id": "event-1-12",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1642006800.017878,
+    "endTimestamp": 1642093200.017878
+  },
+  {
+    "id": "event-1-13",
+    "type": "earnings-boost",
+    "multiplier": 3,
+    "message": "3x EARNINGS!!!",
+    "startTimestamp": 1642093200.01541,
+    "endTimestamp": 1642179600.01541
+  },
+  {
+    "id": "event-1-14",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1642179600.0156827,
+    "endTimestamp": 1642266000.0156827
+  },
+  {
+    "id": "event-1-15-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1642262400.080735,
+    "endTimestamp": 1642435200.080735
+  },
+  {
+    "id": "event-1-15",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1642262400.017687,
+    "endTimestamp": 1642348800.017687
+  },
+  {
+    "id": "event-1-16",
+    "type": "boost-sale",
+    "multiplier": 0.8,
+    "message": "20% OFF BOOSTS!!!",
+    "startTimestamp": 1642348800.01609,
+    "endTimestamp": 1642438800.01609
+  },
+  {
+    "id": "event-1-17",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1642438800.0140588,
+    "endTimestamp": 1642525200.0140588
+  },
+  {
+    "id": "event-1-18",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1642525200.1102872,
+    "endTimestamp": 1642611600.1102872
+  },
+  {
+    "id": "event-1-19-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1642611600.021457,
+    "endTimestamp": 1642784400.021457
+  },
+  {
+    "id": "event-1-19",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1642611600.0183482,
+    "endTimestamp": 1642698000.0183482
+  },
+  {
+    "id": "event-1-20",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1642698000.021412,
+    "endTimestamp": 1642784400.021412
+  },
+  {
+    "id": "event-1-21",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1642784400.09818,
+    "endTimestamp": 1642870800.09818
+  },
+  {
+    "id": "event-1-22-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1642867200.027033,
+    "endTimestamp": 1643040000.027033
+  },
+  {
+    "id": "event-1-22",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1642867200.016446,
+    "endTimestamp": 1642953600.016446
+  },
+  {
+    "id": "event-1-23",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1642953600.020133,
+    "endTimestamp": 1643043600.020133
+  },
+  {
+    "id": "event-1-24",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1643043600.097735,
+    "endTimestamp": 1643130000.097735
+  },
+  {
+    "id": "event-1-25",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1643130000.016143,
+    "endTimestamp": 1643216400.016143
+  },
+  {
+    "id": "event-1-26",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!!",
+    "startTimestamp": 1643216400.019484,
+    "endTimestamp": 1643302800.019484
+  },
+  {
+    "id": "event-1-27",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1643302800.101213,
+    "endTimestamp": 1643389200.101213
+  },
+  {
+    "id": "event-1-28",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1643389200.0151858,
+    "endTimestamp": 1643475600.0151858
+  },
+  {
+    "id": "event-1-29-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1643472000.017806,
+    "endTimestamp": 1643644800.017806
+  },
+  {
+    "id": "event-1-29",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1643472000.072635,
+    "endTimestamp": 1643558400.072635
+  },
+  {
+    "id": "event-1-30",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1643558400.08091,
+    "endTimestamp": 1643648400.08091
+  },
+  {
+    "id": "event-1-30-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1643562000.017666,
+    "endTimestamp": 1643734800.017666
+  },
+  {
+    "id": "event-1-31",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1643649012.684045,
+    "endTimestamp": 1643734800.017641
+  },
+  {
+    "id": "event-2-1",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1643734800.0156891,
+    "endTimestamp": 1643821200.0156891
+  },
+  {
+    "id": "event-2-2-3",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1643821200.014909,
+    "endTimestamp": 1643907600.014909
+  },
+  {
+    "id": "event-2-2-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1643821200.0157359,
+    "endTimestamp": 1643994000.0157359
+  },
+  {
+    "id": "event-2-2",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1643821200.0149639,
+    "endTimestamp": 1643907600.0149639
+  },
+  {
+    "id": "event-2-3",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1643907600.0156858,
+    "endTimestamp": 1643994000.0156858
+  },
+  {
+    "id": "event-2-4",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1643994000.084886,
+    "endTimestamp": 1644080400.084886
+  },
+  {
+    "id": "event-2-5-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1644076800.100706,
+    "endTimestamp": 1644249600.100706
+  },
+  {
+    "id": "event-2-5",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1644076800.084092,
+    "endTimestamp": 1644163200.084092
+  },
+  {
+    "id": "event-2-6",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1644163200.097263,
+    "endTimestamp": 1644253200.097263
+  },
+  {
+    "id": "event-2-7",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1644253200.196497,
+    "endTimestamp": 1644339600.196497
+  },
+  {
+    "id": "event-2-8",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1644339600.084501,
+    "endTimestamp": 1644426000.084501
+  },
+  {
+    "id": "event-2-9",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1644426000.021474,
+    "endTimestamp": 1644512400.021474
+  },
+  {
+    "id": "event-2-10",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1644512400.01437,
+    "endTimestamp": 1644598800.01437
+  },
+  {
+    "id": "event-2-11",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1644598800.018627,
+    "endTimestamp": 1644685200.018627
+  },
+  {
+    "id": "event-2-12-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1644681600.068255,
+    "endTimestamp": 1644854400.068255
+  },
+  {
+    "id": "event-2-12",
+    "type": "prestige-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PRESTIGE!!!",
+    "startTimestamp": 1644681600.052381,
+    "endTimestamp": 1644768000.052381
+  },
+  {
+    "id": "event-2-13",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1644768000.0788112,
+    "endTimestamp": 1644858000.0788112
+  },
+  {
+    "id": "event-2-14",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1644858000.0397997,
+    "endTimestamp": 1644944400.0397997
+  },
+  {
+    "id": "event-2-15",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1644944400.016798,
+    "endTimestamp": 1645030800.016798
+  },
+  {
+    "id": "event-2-16",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!!",
+    "startTimestamp": 1645030800.0797532,
+    "endTimestamp": 1645117200.0797532
+  },
+  {
+    "id": "event-2-17",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1645117200.014743,
+    "endTimestamp": 1645203600.014743
+  },
+  {
+    "id": "event-2-18-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1645203600.08117,
+    "endTimestamp": 1645376400.08117
+  },
+  {
+    "id": "event-2-18",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1645203600.0966258,
+    "endTimestamp": 1645290000.0966258
+  },
+  {
+    "id": "event-2-19-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1645286400.019763,
+    "endTimestamp": 1645459200.019763
+  },
+  {
+    "id": "event-2-19",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1645286400.10281,
+    "endTimestamp": 1645372800.10281
+  },
+  {
+    "id": "event-2-20",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1645372800.019331,
+    "endTimestamp": 1645462800.019331
+  },
+  {
+    "id": "event-2-21",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1645462800.0175157,
+    "endTimestamp": 1645549200.0175157
+  },
+  {
+    "id": "event-2-22-3",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1645549200.0178242,
+    "endTimestamp": 1645635600.0178242
+  },
+  {
+    "id": "event-2-22-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1645549200.063651,
+    "endTimestamp": 1645722000.063651
+  },
+  {
+    "id": "event-2-22",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1645549200.017873,
+    "endTimestamp": 1645635600.017873
+  },
+  {
+    "id": "event-2-23",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1645635600.0636082,
+    "endTimestamp": 1645722000.0636082
+  },
+  {
+    "id": "event-2-24",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1645722000.0166,
+    "endTimestamp": 1645808400.0166
+  },
+  {
+    "id": "event-2-25",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1645808400.0922,
+    "endTimestamp": 1645894800.0922
+  },
+  {
+    "id": "event-2-26-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1645891200.0864491,
+    "endTimestamp": 1646064000.0864491
+  },
+  {
+    "id": "event-2-26",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1645891200.019421,
+    "endTimestamp": 1645977600.019421
+  },
+  {
+    "id": "event-2-27",
+    "type": "boost-sale",
+    "multiplier": 0.8,
+    "message": "20% OFF BOOSTS!!!",
+    "startTimestamp": 1645977600.050859,
+    "endTimestamp": 1646067600.050859
+  },
+  {
+    "id": "event-2-28",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1646067600.0794342,
+    "endTimestamp": 1646154000.0794342
+  },
+  {
+    "id": "event-3-1",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1646154000.082302,
+    "endTimestamp": 1646240400.082302
+  },
+  {
+    "id": "event-3-2",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1646240400.019227,
+    "endTimestamp": 1646326800.019227
+  },
+  {
+    "id": "event-3-3",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1646326800.192671,
+    "endTimestamp": 1646413200.192671
+  },
+  {
+    "id": "event-3-4",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1646413200.0164418,
+    "endTimestamp": 1646499600.0164418
+  },
+  {
+    "id": "event-3-5-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1646496000.020809,
+    "endTimestamp": 1646668800.020809
+  },
+  {
+    "id": "event-3-5",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1646496000.1830702,
+    "endTimestamp": 1646582400.1830702
+  },
+  {
+    "id": "event-3-6-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1646582400.0912251,
+    "endTimestamp": 1646755200.0912251
+  },
+  {
+    "id": "event-3-6",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1646582400.019795,
+    "endTimestamp": 1646672400.019795
+  },
+  {
+    "id": "event-3-7",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1646672400.018562,
+    "endTimestamp": 1646758800.018562
+  },
+  {
+    "id": "event-3-8",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1646758800.0173159,
+    "endTimestamp": 1646845200.0173159
+  },
+  {
+    "id": "event-3-9",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!!",
+    "startTimestamp": 1646845200.067456,
+    "endTimestamp": 1646931600.067456
+  },
+  {
+    "id": "event-3-10",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1646931600.0808969,
+    "endTimestamp": 1647018000.0808969
+  },
+  {
+    "id": "event-3-11",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1647018000.072272,
+    "endTimestamp": 1647104400.072272
+  },
+  {
+    "id": "event-3-12-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1647100800.0741856,
+    "endTimestamp": 1647273600.0741856
+  },
+  {
+    "id": "event-3-12",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1647100800.0921528,
+    "endTimestamp": 1647187200.0921528
+  },
+  {
+    "id": "event-3-13",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1647183600.0741577,
+    "endTimestamp": 1647273600.0741577
+  },
+  {
+    "id": "event-3-14",
+    "type": "earnings-boost",
+    "multiplier": 3.14,
+    "message": "3.14x EARNINGS!",
+    "startTimestamp": 1647274113.6347232,
+    "endTimestamp": 1647360000.016729
+  },
+  {
+    "id": "event-3-15",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1647360000.0145237,
+    "endTimestamp": 1647446400.0145237
+  },
+  {
+    "id": "event-3-16-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1647446400.0691638,
+    "endTimestamp": 1647619200.0691638
+  },
+  {
+    "id": "event-3-16",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1647446400.0220351,
+    "endTimestamp": 1647532800.0220351
+  },
+  {
+    "id": "event-3-17",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1647532800.0691328,
+    "endTimestamp": 1647619200.0691328
+  },
+  {
+    "id": "event-3-18",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1647619200.083752,
+    "endTimestamp": 1647705600.083752
+  },
+  {
+    "id": "event-3-19-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1647702000.079585,
+    "endTimestamp": 1647874800.079585
+  },
+  {
+    "id": "event-3-19",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1647702000.0821571,
+    "endTimestamp": 1647788400.0821571
+  },
+  {
+    "id": "event-3-20",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1647788400.0181932,
+    "endTimestamp": 1647878400.0181932
+  },
+  {
+    "id": "event-3-21",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1647880268.858785,
+    "endTimestamp": 1647964800.066169
+  },
+  {
+    "id": "event-3-22",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1647964800.018373,
+    "endTimestamp": 1648051200.018373
+  },
+  {
+    "id": "event-3-23",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!!",
+    "startTimestamp": 1648051200.0940528,
+    "endTimestamp": 1648137600.0940528
+  },
+  {
+    "id": "event-3-24",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1648137600.039826,
+    "endTimestamp": 1648224000.039826
+  },
+  {
+    "id": "event-3-25",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1648224000.017996,
+    "endTimestamp": 1648310400.017996
+  },
+  {
+    "id": "event-3-26-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1648306800.018283,
+    "endTimestamp": 1648479600.018283
+  },
+  {
+    "id": "event-3-26",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1648306800.087377,
+    "endTimestamp": 1648393200.087377
+  },
+  {
+    "id": "event-3-27-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1648393200.100518,
+    "endTimestamp": 1648566000.100518
+  },
+  {
+    "id": "event-3-27",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1648393200.074241,
+    "endTimestamp": 1648483200.074241
+  },
+  {
+    "id": "event-3-28",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1648483200.0911477,
+    "endTimestamp": 1648569600.0911477
+  },
+  {
+    "id": "event-3-29",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1648569600.0232313,
+    "endTimestamp": 1648656000.0232313
+  },
+  {
+    "id": "event-3-30",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1648656000.01708,
+    "endTimestamp": 1648742400.01708
+  },
+  {
+    "id": "event-3-31",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1648742400.093606,
+    "endTimestamp": 1648828800.093606
+  },
+  {
+    "id": "event-4-1",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1648828800.1133652,
+    "endTimestamp": 1648915200.1133652
+  },
+  {
+    "id": "event-4-2-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1648911600.075406,
+    "endTimestamp": 1649084400.075406
+  },
+  {
+    "id": "event-4-2",
+    "type": "prestige-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PRESTIGE!!!",
+    "startTimestamp": 1648911600.017934,
+    "endTimestamp": 1648998000.017934
+  },
+  {
+    "id": "event-4-3",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1648998000.0209951,
+    "endTimestamp": 1649088000.0209951
+  },
+  {
+    "id": "event-4-4",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1649088000.102971,
+    "endTimestamp": 1649174400.102971
+  },
+  {
+    "id": "event-4-5-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1649174400.07224,
+    "endTimestamp": 1649347200.07224
+  },
+  {
+    "id": "event-4-5",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1649174400.022711,
+    "endTimestamp": 1649260800.022711
+  },
+  {
+    "id": "event-4-6",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1649260800.07219,
+    "endTimestamp": 1649347200.07219
+  },
+  {
+    "id": "event-4-7",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1649347200.018068,
+    "endTimestamp": 1649433600.018068
+  },
+  {
+    "id": "event-4-8",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!!",
+    "startTimestamp": 1649430000.095257,
+    "endTimestamp": 1649516400.095257
+  },
+  {
+    "id": "event-4-9-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1649516400.0153,
+    "endTimestamp": 1649689200.0153
+  },
+  {
+    "id": "event-4-9",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1649516400.100643,
+    "endTimestamp": 1649602800.100643
+  },
+  {
+    "id": "event-4-10",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1649602800.017492,
+    "endTimestamp": 1649692800.017492
+  },
+  {
+    "id": "event-4-11",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1649692800.017357,
+    "endTimestamp": 1649779200.017357
+  },
+  {
+    "id": "event-4-12",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1649779200.0203009,
+    "endTimestamp": 1649865600.0203009
+  },
+  {
+    "id": "event-4-13",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1649865600.016512,
+    "endTimestamp": 1649952000.016512
+  },
+  {
+    "id": "event-4-14",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1649952000.0815158,
+    "endTimestamp": 1650038400.0815158
+  },
+  {
+    "id": "event-4-15",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1650038400.024513,
+    "endTimestamp": 1650124800.024513
+  },
+  {
+    "id": "event-4-16-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1650121200.1063201,
+    "endTimestamp": 1650294000.1063201
+  },
+  {
+    "id": "event-4-16",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1650121200.015949,
+    "endTimestamp": 1650207600.015949
+  },
+  {
+    "id": "event-4-17",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1650207600.018208,
+    "endTimestamp": 1650297600.018208
+  },
+  {
+    "id": "event-4-18",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1650297600.015696,
+    "endTimestamp": 1650384000.015696
+  },
+  {
+    "id": "event-4-19",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1650384000.016317,
+    "endTimestamp": 1650470400.016317
+  },
+  {
+    "id": "event-4-20",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1650470400.015757,
+    "endTimestamp": 1650556800.015757
+  },
+  {
+    "id": "event-4-21",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1650556800.0150552,
+    "endTimestamp": 1650643200.0150552
+  },
+  {
+    "id": "event-4-22",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1650643200.100111,
+    "endTimestamp": 1650729600.100111
+  },
+  {
+    "id": "event-4-23-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1650726000.067443,
+    "endTimestamp": 1650898800.067443
+  },
+  {
+    "id": "event-4-23",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1650726000.095744,
+    "endTimestamp": 1650812400.095744
+  },
+  {
+    "id": "event-4-24-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1650812400.088789,
+    "endTimestamp": 1650985200.088789
+  },
+  {
+    "id": "event-4-24",
+    "type": "boost-sale",
+    "multiplier": 0.75,
+    "message": "25% OFF BOOSTS!",
+    "startTimestamp": 1650812400.017103,
+    "endTimestamp": 1650902400.017103
+  },
+  {
+    "id": "event-4-25",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1650902400.097376,
+    "endTimestamp": 1650988800.097376
+  },
+  {
+    "id": "event-4-26",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1650988800.019434,
+    "endTimestamp": 1651075200.019434
+  },
+  {
+    "id": "event-4-27",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!!",
+    "startTimestamp": 1651075200.0731833,
+    "endTimestamp": 1651161600.0731833
+  },
+  {
+    "id": "event-4-28",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1651161600.015624,
+    "endTimestamp": 1651248000.015624
+  },
+  {
+    "id": "event-4-29",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1651248000.0989919,
+    "endTimestamp": 1651334400.0989919
+  },
+  {
+    "id": "event-4-30-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1651330800.0239978,
+    "endTimestamp": 1651503600.0239978
+  },
+  {
+    "id": "event-4-30",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1651330800.086894,
+    "endTimestamp": 1651417200.086894
+  },
+  {
+    "id": "event-5-1",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1651417200.021627,
+    "endTimestamp": 1651507200.021627
+  },
+  {
+    "id": "event-5-2",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1651507200.0221672,
+    "endTimestamp": 1651593600.0221672
+  },
+  {
+    "id": "event-5-3",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1651593600.016586,
+    "endTimestamp": 1651680000.016586
+  },
+  {
+    "id": "event-5-4",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1651680000.023427,
+    "endTimestamp": 1651766400.023427
+  },
+  {
+    "id": "event-5-5",
+    "type": "earnings-boost",
+    "multiplier": 3,
+    "message": "3x EARNINGS!",
+    "startTimestamp": 1651766400.105037,
+    "endTimestamp": 1651852800.105037
+  },
+  {
+    "id": "event-5-6",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1651852800.199497,
+    "endTimestamp": 1651939200.199497
+  },
+  {
+    "id": "event-5-7-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1651935600.018016,
+    "endTimestamp": 1652108400.018016
+  },
+  {
+    "id": "event-5-7",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1651935600.017338,
+    "endTimestamp": 1652022000.017338
+  },
+  {
+    "id": "event-5-8",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1652022000.015229,
+    "endTimestamp": 1652112000.015229
+  },
+  {
+    "id": "event-5-9",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1652112000.0623,
+    "endTimestamp": 1652198400.0623
+  },
+  {
+    "id": "event-5-10",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1652198400.0150678,
+    "endTimestamp": 1652284800.0150678
+  },
+  {
+    "id": "event-5-11",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1652284800.080853,
+    "endTimestamp": 1652371200.080853
+  },
+  {
+    "id": "event-5-12",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1652371200.0987759,
+    "endTimestamp": 1652457600.0987759
+  },
+  {
+    "id": "event-5-13",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1652457600.0243082,
+    "endTimestamp": 1652544000.0243082
+  },
+  {
+    "id": "event-5-14-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1652540400.018257,
+    "endTimestamp": 1652713200.018257
+  },
+  {
+    "id": "event-5-14",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1652540400.015415,
+    "endTimestamp": 1652626800.015415
+  },
+  {
+    "id": "event-5-15-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1652626800.093508,
+    "endTimestamp": 1652799600.093508
+  },
+  {
+    "id": "event-5-15",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1652626800.065495,
+    "endTimestamp": 1652716800.065495
+  },
+  {
+    "id": "event-5-16",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1652717656.482691,
+    "endTimestamp": 1652803200.089661
+  },
+  {
+    "id": "event-5-17",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!!",
+    "startTimestamp": 1652803200.0205498,
+    "endTimestamp": 1652889600.0205498
+  },
+  {
+    "id": "event-8-18-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1652889600.090077,
+    "endTimestamp": 1653062400.090077
+  },
+  {
+    "id": "event-5-18",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1652889600.019847,
+    "endTimestamp": 1652976000.019847
+  },
+  {
+    "id": "event-5-19",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1652976000.090307,
+    "endTimestamp": 1653062400.090307
+  },
+  {
+    "id": "event-5-20",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1653062400.102062,
+    "endTimestamp": 1653148800.102062
+  },
+  {
+    "id": "event-5-21-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1653145200.101092,
+    "endTimestamp": 1653318000.101092
+  },
+  {
+    "id": "event-5-21",
+    "type": "prestige-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PRESTIGE!!!",
+    "startTimestamp": 1653145200.015681,
+    "endTimestamp": 1653231600.015681
+  },
+  {
+    "id": "event-5-22",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1653231600.021135,
+    "endTimestamp": 1653321600.021135
+  },
+  {
+    "id": "event-5-23",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1653321600.019358,
+    "endTimestamp": 1653408000.019358
+  },
+  {
+    "id": "event-5-24",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1653408000.081956,
+    "endTimestamp": 1653494400.081956
+  },
+  {
+    "id": "event-5-25",
+    "type": "earnings-boost",
+    "multiplier": 3,
+    "message": "3x EARNINGS!",
+    "startTimestamp": 1653494400.192426,
+    "endTimestamp": 1653580800.192426
+  },
+  {
+    "id": "event-5-26",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1653580800.021901,
+    "endTimestamp": 1653667200.021901
+  },
+  {
+    "id": "event-5-27",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1653667200.0901248,
+    "endTimestamp": 1653753600.0901248
+  },
+  {
+    "id": "event-5-28",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1653750000.015424,
+    "endTimestamp": 1653836400.015424
+  },
+  {
+    "id": "event-5-29",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1653836400.0987601,
+    "endTimestamp": 1653926400.0987601
+  },
+  {
+    "id": "event-5-30",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1653926400.0445218,
+    "endTimestamp": 1654012800.0445218
+  },
+  {
+    "id": "event-5-31",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1654012800.029283,
+    "endTimestamp": 1654099200.029283
+  },
+  {
+    "id": "event-6-1",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1654099200.016731,
+    "endTimestamp": 1654185600.016731
+  },
+  {
+    "id": "event-6-2",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1654185600.019644,
+    "endTimestamp": 1654272000.019644
+  },
+  {
+    "id": "event-6-3",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1654272000.016678,
+    "endTimestamp": 1654358400.016678
+  },
+  {
+    "id": "event-6-4-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1654354800.0161989,
+    "endTimestamp": 1654527600.0161989
+  },
+  {
+    "id": "event-6-4",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1654354800.0163758,
+    "endTimestamp": 1654441200.0163758
+  },
+  {
+    "id": "event-6-5-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1654441200.02075,
+    "endTimestamp": 1654614000.02075
+  },
+  {
+    "id": "event-6-5",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1654441200.078839,
+    "endTimestamp": 1654531200.078839
+  },
+  {
+    "id": "event-6-6",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1654531200.017792,
+    "endTimestamp": 1654617600.017792
+  },
+  {
+    "id": "event-6-7",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!!",
+    "startTimestamp": 1654621412.37566,
+    "endTimestamp": 1654704000.0183551
+  },
+  {
+    "id": "event-6-8",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1654704332.429282,
+    "endTimestamp": 1654790400.067254
+  },
+  {
+    "id": "event-6-9",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1654790400.1977792,
+    "endTimestamp": 1654876800.1977792
+  },
+  {
+    "id": "event-6-10",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1654876800.087348,
+    "endTimestamp": 1654963200.087348
+  },
+  {
+    "id": "event-6-11-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1654959600.0862708,
+    "endTimestamp": 1655132400.0862708
+  },
+  {
+    "id": "event-6-11",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1654959600.0156407,
+    "endTimestamp": 1655046000.0156407
+  },
+  {
+    "id": "event-6-12",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1655046000.082627,
+    "endTimestamp": 1655136000.082627
+  },
+  {
+    "id": "event-6-13",
+    "type": "earnings-boost",
+    "multiplier": 3,
+    "message": "3x EARNINGS!",
+    "startTimestamp": 1655136000.110942,
+    "endTimestamp": 1655222400.110942
+  },
+  {
+    "id": "event-6-14-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1655222400.0198061,
+    "endTimestamp": 1655395200.0198061
+  },
+  {
+    "id": "event-6-14",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1655222400.196955,
+    "endTimestamp": 1655308800.196955
+  },
+  {
+    "id": "event-6-15",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1655308800.019771,
+    "endTimestamp": 1655395200.019771
+  },
+  {
+    "id": "event-6-16",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1655395200.016484,
+    "endTimestamp": 1655481600.016484
+  },
+  {
+    "id": "event-6-17",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1655481600.0169501,
+    "endTimestamp": 1655568000.0169501
+  },
+  {
+    "id": "event-6-18-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1655564400.0793102,
+    "endTimestamp": 1655737200.0793102
+  },
+  {
+    "id": "event-6-18",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1655564400.07538,
+    "endTimestamp": 1655650800.07538
+  },
+  {
+    "id": "event-6-19",
+    "type": "boost-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF BOOSTS!",
+    "startTimestamp": 1655650800.0865,
+    "endTimestamp": 1655740800.0865
+  },
+  {
+    "id": "event-6-20",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1655740800.018114,
+    "endTimestamp": 1655827200.018114
+  },
+  {
+    "id": "event-6-21",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1655827200.017462,
+    "endTimestamp": 1655913600.017462
+  },
+  {
+    "id": "event-6-22",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1655913600.036627,
+    "endTimestamp": 1656000000.036627
+  },
+  {
+    "id": "event-6-23",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1656000000.0993052,
+    "endTimestamp": 1656086400.0993052
+  },
+  {
+    "id": "event-6-24",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1656086400.0754607,
+    "endTimestamp": 1656172800.0754607
+  },
+  {
+    "id": "event-6-25-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1656169200.04335,
+    "endTimestamp": 1656342000.04335
+  },
+  {
+    "id": "event-6-25",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1656169200.085235,
+    "endTimestamp": 1656255600.085235
+  },
+  {
+    "id": "event-6-26",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1656255600.089915,
+    "endTimestamp": 1656345600.089915
+  },
+  {
+    "id": "event-6-27",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1656345600.0774481,
+    "endTimestamp": 1656432000.0774481
+  },
+  {
+    "id": "event-6-28",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1656432000.0298352,
+    "endTimestamp": 1656518400.0298352
+  },
+  {
+    "id": "event-6-29-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1656518400.019497,
+    "endTimestamp": 1656691200.019497
+  },
+  {
+    "id": "event-6-29",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1656518400.018473,
+    "endTimestamp": 1656604800.018473
+  },
+  {
+    "id": "event-6-30",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1656604800.017407,
+    "endTimestamp": 1656691200.017407
+  },
+  {
+    "id": "event-7-1",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1656691200.0168028,
+    "endTimestamp": 1656777600.0168028
+  },
+  {
+    "id": "event-7-2-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1656774000.022088,
+    "endTimestamp": 1656946800.022088
+  },
+  {
+    "id": "event-7-2",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1656774000.016676,
+    "endTimestamp": 1656860400.016676
+  },
+  {
+    "id": "event-7-3-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1656860400.020347,
+    "endTimestamp": 1657033200.020347
+  },
+  {
+    "id": "event-7-3",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1656860400.1008892,
+    "endTimestamp": 1656950400.1008892
+  },
+  {
+    "id": "event-7-4",
+    "type": "earnings-boost",
+    "multiplier": 4,
+    "message": "4x EARNINGS!",
+    "startTimestamp": 1656950400.097216,
+    "endTimestamp": 1657036800.097216
+  },
+  {
+    "id": "event-7-5",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1657036800.078882,
+    "endTimestamp": 1657123200.078882
+  },
+  {
+    "id": "event-7-6",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!!",
+    "startTimestamp": 1657123200.019288,
+    "endTimestamp": 1657209600.019288
+  },
+  {
+    "id": "event-7-7",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1657209600.0198898,
+    "endTimestamp": 1657296000.0198898
+  },
+  {
+    "id": "event-7-8",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1657296000.0953903,
+    "endTimestamp": 1657382400.0953903
+  },
+  {
+    "id": "event-7-9-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1657378800.016502,
+    "endTimestamp": 1657551600.016502
+  },
+  {
+    "id": "event-7-9",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1657378800.0636048,
+    "endTimestamp": 1657465200.0636048
+  },
+  {
+    "id": "event-7-10",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1657465200.030102,
+    "endTimestamp": 1657555200.030102
+  },
+  {
+    "id": "event-7-11",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1657555200.0742521,
+    "endTimestamp": 1657641600.0742521
+  },
+  {
+    "id": "event-7-12",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1657641600.0707977,
+    "endTimestamp": 1657728000.0707977
+  },
+  {
+    "id": "event-7-13",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1657728000.026192,
+    "endTimestamp": 1657814400.026192
+  },
+  {
+    "id": "event-7-14-se",
+    "type": "prestige-boost",
+    "multiplier": 6,
+    "message": "6x PRESTIGE!!!!!!",
+    "startTimestamp": 1657810800.02349,
+    "endTimestamp": 1657897200.02349
+  },
+  {
+    "id": "event-7-14-p",
+    "type": "piggy-boost",
+    "multiplier": 6,
+    "message": "6x PIGGY GROWTH!!",
+    "startTimestamp": 1657810800.0235138,
+    "endTimestamp": 1657897200.0235138
+  },
+  {
+    "id": "event-7-14-f",
+    "type": "mission-fuel",
+    "multiplier": 6,
+    "message": "6x FUELING!",
+    "startTimestamp": 1657810800.023537,
+    "endTimestamp": 1657897200.023537
+  },
+  {
+    "id": "event-7-14-e",
+    "type": "earnings-boost",
+    "multiplier": 3,
+    "message": "3x EARNINGS!",
+    "startTimestamp": 1657810800.023561,
+    "endTimestamp": 1657897200.023561
+  },
+  {
+    "id": "event-7-14-d",
+    "type": "drone-boost",
+    "multiplier": 6,
+    "message": "6x DRONE REWARDS!",
+    "startTimestamp": 1657810800.023589,
+    "endTimestamp": 1657897200.023589
+  },
+  {
+    "id": "event-after-party",
+    "type": "earnings-boost",
+    "multiplier": 6,
+    "message": "AFTER PARTY!!!",
+    "startTimestamp": 1657897200.046941,
+    "endTimestamp": 1657900800.046941
+  },
+  {
+    "id": "event-7-15",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1657900800.016846,
+    "endTimestamp": 1657987200.016846
+  },
+  {
+    "id": "event-7-16-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1657983600.0335202,
+    "endTimestamp": 1658156400.0335202
+  },
+  {
+    "id": "event-7-16",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1657983600.016226,
+    "endTimestamp": 1658070000.016226
+  },
+  {
+    "id": "event-7-17-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1658070000.019991,
+    "endTimestamp": 1658242800.019991
+  },
+  {
+    "id": "event-7-17",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1658070000.0386474,
+    "endTimestamp": 1658160000.0386474
+  },
+  {
+    "id": "event-7-18",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1658160000.0401282,
+    "endTimestamp": 1658246400.0401282
+  },
+  {
+    "id": "event-7-19",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1658246400.0192757,
+    "endTimestamp": 1658332800.0192757
+  },
+  {
+    "id": "event-7-20",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1658332800.071702,
+    "endTimestamp": 1658419200.071702
+  },
+  {
+    "id": "event-7-21",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1658419354.479293,
+    "endTimestamp": 1658505600.083229
+  },
+  {
+    "id": "event-7-22",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1658505600.015166,
+    "endTimestamp": 1658592000.015166
+  },
+  {
+    "id": "event-7-23-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1658588400.0181649,
+    "endTimestamp": 1658761200.0181649
+  },
+  {
+    "id": "event-7-23",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1658588400.017657,
+    "endTimestamp": 1658674800.017657
+  },
+  {
+    "id": "event-7-24",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1658674800.0832589,
+    "endTimestamp": 1658764800.0832589
+  },
+  {
+    "id": "event-7-25",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1658764800.045089,
+    "endTimestamp": 1658851200.045089
+  },
+  {
+    "id": "event-7-26",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!!",
+    "startTimestamp": 1658851200.023021,
+    "endTimestamp": 1658937600.023021
+  },
+  {
+    "id": "event-7-27",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1658937600.023991,
+    "endTimestamp": 1659024000.023991
+  },
+  {
+    "id": "event-7-28",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1659024000.02019,
+    "endTimestamp": 1659110400.02019
+  },
+  {
+    "id": "event-7-29",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1659110400.1087298,
+    "endTimestamp": 1659196800.1087298
+  },
+  {
+    "id": "event-7-30-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1659193200.083922,
+    "endTimestamp": 1659366000.083922
+  },
+  {
+    "id": "event-7-30",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1659193200.026637,
+    "endTimestamp": 1659279600.026637
+  },
+  {
+    "id": "event-7-31-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1659279600.0325127,
+    "endTimestamp": 1659369600.0325127
+  },
+  {
+    "id": "event-7-31",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1659279600.0325418,
+    "endTimestamp": 1659369600.0325418
+  },
+  {
+    "id": "event-8-1",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1659369600.101585,
+    "endTimestamp": 1659456000.101585
+  },
+  {
+    "id": "event-8-2",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1659456000.023194,
+    "endTimestamp": 1659542400.023194
+  },
+  {
+    "id": "event-8-3",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1659542400.022224,
+    "endTimestamp": 1659628800.022224
+  },
+  {
+    "id": "event-8-4",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1659628800.019671,
+    "endTimestamp": 1659715200.019671
+  },
+  {
+    "id": "event-8-5",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1659715200.060262,
+    "endTimestamp": 1659801600.060262
+  },
+  {
+    "id": "event-8-6-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1659798000.026095,
+    "endTimestamp": 1659970800.026095
+  },
+  {
+    "id": "event-8-6",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1659798000.02248,
+    "endTimestamp": 1659884400.02248
+  },
+  {
+    "id": "event-8-7",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1659884400.025304,
+    "endTimestamp": 1659974400.025304
+  },
+  {
+    "id": "event-8-8",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1659974400.0458808,
+    "endTimestamp": 1660060800.0458808
+  },
+  {
+    "id": "event-8-9",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1660060800.0301561,
+    "endTimestamp": 1660147200.0301561
+  },
+  {
+    "id": "event-8-10",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1660147200.059691,
+    "endTimestamp": 1660233600.059691
+  },
+  {
+    "id": "event-8-11",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1660233600.1032152,
+    "endTimestamp": 1660320000.1032152
+  },
+  {
+    "id": "event-8-12",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1660320000.021003,
+    "endTimestamp": 1660406400.021003
+  },
+  {
+    "id": "event-8-13-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1660402800.0198772,
+    "endTimestamp": 1660575600.0198772
+  },
+  {
+    "id": "event-8-13",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1660402800.0231917,
+    "endTimestamp": 1660489200.0231917
+  },
+  {
+    "id": "event-8-14-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1660489200.104014,
+    "endTimestamp": 1660662000.104014
+  },
+  {
+    "id": "event-8-14",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1660489200.019664,
+    "endTimestamp": 1660579200.019664
+  },
+  {
+    "id": "event-8-15",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1660579200.0279338,
+    "endTimestamp": 1660665600.0279338
+  },
+  {
+    "id": "event-8-16",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!!",
+    "startTimestamp": 1660665600.087548,
+    "endTimestamp": 1660752000.087548
+  },
+  {
+    "id": "event-8-17",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1660752000.018946,
+    "endTimestamp": 1660838400.018946
+  },
+  {
+    "id": "event-8-18",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1660838400.020113,
+    "endTimestamp": 1660924800.020113
+  },
+  {
+    "id": "event-8-19",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1660924800.0205522,
+    "endTimestamp": 1661011200.0205522
+  },
+  {
+    "id": "event-8-20-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1661007600.021414,
+    "endTimestamp": 1661180400.021414
+  },
+  {
+    "id": "event-8-20",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1661007600.0245569,
+    "endTimestamp": 1661094000.0245569
+  },
+  {
+    "id": "event-8-21",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1661094000.0445557,
+    "endTimestamp": 1661184000.0445557
+  },
+  {
+    "id": "event-8-22",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1661184000.103204,
+    "endTimestamp": 1661270400.103204
+  },
+  {
+    "id": "event-8-23",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1661270400.0985317,
+    "endTimestamp": 1661356800.0985317
+  },
+  {
+    "id": "event-8-24",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1661360565.3355637,
+    "endTimestamp": 1661443200.023739
+  },
+  {
+    "id": "event-8-25",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1661443200.0416589,
+    "endTimestamp": 1661529600.0416589
+  },
+  {
+    "id": "event-8-26",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1661529600.02602,
+    "endTimestamp": 1661616000.02602
+  },
+  {
+    "id": "event-8-27-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1661612400.0211399,
+    "endTimestamp": 1661785200.0211399
+  },
+  {
+    "id": "event-8-27",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1661612400.0270429,
+    "endTimestamp": 1661698800.0270429
+  },
+  {
+    "id": "event-8-28-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1661698800.0274801,
+    "endTimestamp": 1661871600.0274801
+  },
+  {
+    "id": "event-8-28",
+    "type": "boost-sale",
+    "multiplier": 0.75,
+    "message": "25% OFF BOOSTS!",
+    "startTimestamp": 1661698800.0250857,
+    "endTimestamp": 1661788800.0250857
+  },
+  {
+    "id": "event-8-29",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1661788800.1866822,
+    "endTimestamp": 1661875200.1866822
+  },
+  {
+    "id": "event-8-30",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1661877980.714064,
+    "endTimestamp": 1661961600.090812
+  },
+  {
+    "id": "event-8-31",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1661961600.071436,
+    "endTimestamp": 1662048000.071436
+  },
+  {
+    "id": "event-9-1",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1662048000.029099,
+    "endTimestamp": 1662134400.029099
+  },
+  {
+    "id": "event-9-2",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1662134400.024763,
+    "endTimestamp": 1662220800.024763
+  },
+  {
+    "id": "event-9-3-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1662217200.037361,
+    "endTimestamp": 1662390000.037361
+  },
+  {
+    "id": "event-9-3",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1662217200.0548968,
+    "endTimestamp": 1662303600.0548968
+  },
+  {
+    "id": "event-9-4",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1662303600.0918767,
+    "endTimestamp": 1662393600.0918767
+  },
+  {
+    "id": "event-9-5",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1662393600.036294,
+    "endTimestamp": 1662480000.036294
+  },
+  {
+    "id": "event-9-30",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1664557864.83285,
+    "endTimestamp": 1664640000.068808
+  },
+  {
+    "id": "event-10-1-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1664636400.003784,
+    "endTimestamp": 1664809200.003784
+  },
+  {
+    "id": "event-10-1",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1664636400.003665,
+    "endTimestamp": 1664722800.003665
+  },
+  {
+    "id": "event-10-2",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1664722800.0028808,
+    "endTimestamp": 1664812800.0028808
+  },
+  {
+    "id": "event-10-3",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1664812800.0025852,
+    "endTimestamp": 1664899200.0025852
+  },
+  {
+    "id": "event-10-4",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1664899200.005449,
+    "endTimestamp": 1664985600.005449
+  },
+  {
+    "id": "event-10-5",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!!",
+    "startTimestamp": 1664985600.011999,
+    "endTimestamp": 1665072000.011999
+  },
+  {
+    "id": "event-10-6",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1665072000.003649,
+    "endTimestamp": 1665158400.003649
+  },
+  {
+    "id": "event-10-7",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1665158400.0503519,
+    "endTimestamp": 1665244800.0503519
+  },
+  {
+    "id": "event-10-8-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1665241200.0053751,
+    "endTimestamp": 1665414000.0053751
+  },
+  {
+    "id": "event-10-8",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1665241200.0047688,
+    "endTimestamp": 1665327600.0047688
+  },
+  {
+    "id": "event-10-9-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1665327600.016529,
+    "endTimestamp": 1665500400.016529
+  },
+  {
+    "id": "event-10-9",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1665327600.0046778,
+    "endTimestamp": 1665417600.0046778
+  },
+  {
+    "id": "event-10-10",
+    "type": "drone-boost",
+    "multiplier": 10,
+    "message": "10x DRONE REWARDS!",
+    "startTimestamp": 1665417600.0022063,
+    "endTimestamp": 1665504000.0022063
+  },
+  {
+    "id": "event-10-11",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1665504000.002172,
+    "endTimestamp": 1665590400.002172
+  },
+  {
+    "id": "event-10-12",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1665590400.002566,
+    "endTimestamp": 1665676800.002566
+  },
+  {
+    "id": "event-10-13",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1665676800.002817,
+    "endTimestamp": 1665763200.002817
+  },
+  {
+    "id": "event-10-14",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1665763200.0103488,
+    "endTimestamp": 1665849600.0103488
+  },
+  {
+    "id": "event-10-15-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "QUAD PIGGY GROWTH!!",
+    "startTimestamp": 1665846000.002571,
+    "endTimestamp": 1666018800.002571
+  },
+  {
+    "id": "event-10-15",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1665846000.002803,
+    "endTimestamp": 1665932400.002803
+  },
+  {
+    "id": "event-10-16",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1665932400.0029316,
+    "endTimestamp": 1666022400.0029316
+  },
+  {
+    "id": "event-10-17",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1666022400.0025668,
+    "endTimestamp": 1666108800.0025668
+  },
+  {
+    "id": "event-10-18",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!!",
+    "startTimestamp": 1666108800.003722,
+    "endTimestamp": 1666195200.003722
+  },
+  {
+    "id": "event-10-19-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1666195200.00218,
+    "endTimestamp": 1666281600.00218
+  },
+  {
+    "id": "event-10-19",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1666195200.002203,
+    "endTimestamp": 1666281600.002203
+  },
+  {
+    "id": "event-10-20",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1666281600.002395,
+    "endTimestamp": 1666368000.002395
+  },
+  {
+    "id": "event-10-21",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1666368000.005767,
+    "endTimestamp": 1666454400.005767
+  },
+  {
+    "id": "event-10-22-2",
+    "type": "piggy-boost",
+    "multiplier": 5,
+    "message": "5x PIGGY GROWTH!!",
+    "startTimestamp": 1666450800.0031989,
+    "endTimestamp": 1666623600.0031989
+  },
+  {
+    "id": "event-10-22",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1666450800.0026371,
+    "endTimestamp": 1666537200.0026371
+  },
+  {
+    "id": "event-10-23-2",
+    "type": "mission-capacity",
+    "multiplier": 3,
+    "message": "3x MISSION CAPACITY!!!",
+    "startTimestamp": 1666537200.002371,
+    "endTimestamp": 1666627200.002371
+  },
+  {
+    "id": "event-10-23",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1666537200.0023952,
+    "endTimestamp": 1666627200.0023952
+  },
+  {
+    "id": "event-10-24",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1666627200.0052311,
+    "endTimestamp": 1666713600.0052311
+  },
+  {
+    "id": "event-10-25",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1666713600.006142,
+    "endTimestamp": 1666800000.006142
+  },
+  {
+    "id": "event-10-26",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1666800000.002376,
+    "endTimestamp": 1666886400.002376
+  },
+  {
+    "id": "event-10-27",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1666886400.002177,
+    "endTimestamp": 1666972800.002177
+  },
+  {
+    "id": "event-10-28",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1666972800.002136,
+    "endTimestamp": 1667059200.002136
+  },
+  {
+    "id": "event-10-29-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1667055600.002396,
+    "endTimestamp": 1667228400.002396
+  },
+  {
+    "id": "event-10-29",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1667055600.0016108,
+    "endTimestamp": 1667142000.0016108
+  },
+  {
+    "id": "event-10-30",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1667142000.0056012,
+    "endTimestamp": 1667232000.0056012
+  },
+  {
+    "id": "event-10-31",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1667232000.009215,
+    "endTimestamp": 1667318400.009215
+  },
+  {
+    "id": "event-11-1",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1667318400.002928,
+    "endTimestamp": 1667404800.002928
+  },
+  {
+    "id": "event-11-2-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1667404800.0020409,
+    "endTimestamp": 1667491200.0020409
+  },
+  {
+    "id": "event-11-2",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "DOUBLE BOOST TIME!!",
+    "startTimestamp": 1667404800.002066,
+    "endTimestamp": 1667491200.002066
+  },
+  {
+    "id": "event-11-3",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1667491200.005618,
+    "endTimestamp": 1667577600.005618
+  },
+  {
+    "id": "event-11-4",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1667577600.002208,
+    "endTimestamp": 1667664000.002208
+  },
+  {
+    "id": "event-11-5-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1667660400.016107,
+    "endTimestamp": 1667833200.016107
+  },
+  {
+    "id": "event-11-5",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1667660400.002744,
+    "endTimestamp": 1667746800.002744
+  },
+  {
+    "id": "event-11-6",
+    "type": "boost-sale",
+    "multiplier": 0.75,
+    "message": "25% OFF BOOSTS!",
+    "startTimestamp": 1667750400.002251,
+    "endTimestamp": 1667840400.002251
+  },
+  {
+    "id": "event-11-7",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1667840400.001639,
+    "endTimestamp": 1667926800.001639
+  },
+  {
+    "id": "event-11-8",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1667926800.0019329,
+    "endTimestamp": 1668013200.0019329
+  },
+  {
+    "id": "event-11-9",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1668013200.002173,
+    "endTimestamp": 1668099600.002173
+  },
+  {
+    "id": "event-11-10",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1668099600.005145,
+    "endTimestamp": 1668186000.005145
+  },
+  {
+    "id": "event-11-11",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1668186000.0021057,
+    "endTimestamp": 1668272400.0021057
+  },
+  {
+    "id": "event-11-12-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1668268800.001853,
+    "endTimestamp": 1668441600.001853
+  },
+  {
+    "id": "event-11-12",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1668268800.009563,
+    "endTimestamp": 1668355200.009563
+  },
+  {
+    "id": "event-11-13",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1668355200.002065,
+    "endTimestamp": 1668445200.002065
+  },
+  {
+    "id": "event-11-14",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1668445200.045999,
+    "endTimestamp": 1668531600.045999
+  },
+  {
+    "id": "event-11-15",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1668531600.0024118,
+    "endTimestamp": 1668618000.0024118
+  },
+  {
+    "id": "event-11-16",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1668618000.001777,
+    "endTimestamp": 1668704400.001777
+  },
+  {
+    "id": "event-11-17",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1668704400.0032582,
+    "endTimestamp": 1668790800.0032582
+  },
+  {
+    "id": "event-11-18",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1668790800.003222,
+    "endTimestamp": 1668877200.003222
+  },
+  {
+    "id": "event-11-19-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1668873600.00318,
+    "endTimestamp": 1669046400.00318
+  },
+  {
+    "id": "event-11-19",
+    "type": "prestige-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PRESTIGE!!!",
+    "startTimestamp": 1668873600.002448,
+    "endTimestamp": 1668960000.002448
+  },
+  {
+    "id": "event-11-20-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1668960000.002178,
+    "endTimestamp": 1669132800.002178
+  },
+  {
+    "id": "event-11-20",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1668960000.003834,
+    "endTimestamp": 1669050000.003834
+  },
+  {
+    "id": "event-11-21",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1669050000.008042,
+    "endTimestamp": 1669136400.008042
+  },
+  {
+    "id": "event-11-22",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1669136400.002495,
+    "endTimestamp": 1669222800.002495
+  },
+  {
+    "id": "event-11-23-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1669222800.002437,
+    "endTimestamp": 1669309200.002437
+  },
+  {
+    "id": "event-11-23",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1669222800.002507,
+    "endTimestamp": 1669309200.002507
+  },
+  {
+    "id": "event-11-24",
+    "type": "earnings-boost",
+    "multiplier": 3,
+    "message": "3x EARNINGS!!!",
+    "startTimestamp": 1669309200.0027971,
+    "endTimestamp": 1669395600.0027971
+  },
+  {
+    "id": "event-11-25",
+    "type": "research-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF RESEARCH!",
+    "startTimestamp": 1669395600.002278,
+    "endTimestamp": 1669482000.002278
+  },
+  {
+    "id": "event-11-26-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1669478400.0041327,
+    "endTimestamp": 1669651200.0041327
+  },
+  {
+    "id": "event-11-26",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1669478400.001868,
+    "endTimestamp": 1669564800.001868
+  },
+  {
+    "id": "event-11-27",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1669564800.003714,
+    "endTimestamp": 1669654800.003714
+  },
+  {
+    "id": "event-11-28",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1669654800.0018811,
+    "endTimestamp": 1669741200.0018811
+  },
+  {
+    "id": "event-11-29",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1669741200.0030503,
+    "endTimestamp": 1669827600.0030503
+  },
+  {
+    "id": "event-11-30",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1669829172.337311,
+    "endTimestamp": 1669914000.003933
+  },
+  {
+    "id": "event-12-1",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1669914000.0037508,
+    "endTimestamp": 1670000400.0037508
+  },
+  {
+    "id": "event-12-2",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1670000400.005985,
+    "endTimestamp": 1670086800.005985
+  },
+  {
+    "id": "event-12-3-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1670083200.006761,
+    "endTimestamp": 1670256000.006761
+  },
+  {
+    "id": "event-12-3",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1670083200.002158,
+    "endTimestamp": 1670169600.002158
+  },
+  {
+    "id": "event-12-4-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1670169600.0066721,
+    "endTimestamp": 1670256000.0066721
+  },
+  {
+    "id": "event-12-4",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1670169600.003427,
+    "endTimestamp": 1670259600.003427
+  },
+  {
+    "id": "event-12-5",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1670259600.001759,
+    "endTimestamp": 1670346000.001759
+  },
+  {
+    "id": "event-12-6",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "2x BOOST DURATION!",
+    "startTimestamp": 1670346000.0016723,
+    "endTimestamp": 1670432400.0016723
+  },
+  {
+    "id": "event-12-7-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1670428800.0027862,
+    "endTimestamp": 1670515200.0027862
+  },
+  {
+    "id": "event-12-7",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1670432400.005029,
+    "endTimestamp": 1670518800.005029
+  },
+  {
+    "id": "event-12-8",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1670518800.059052,
+    "endTimestamp": 1670605200.059052
+  },
+  {
+    "id": "event-12-9",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1670605200.004831,
+    "endTimestamp": 1670691600.004831
+  },
+  {
+    "id": "event-12-10-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1670688000.003327,
+    "endTimestamp": 1670860800.003327
+  },
+  {
+    "id": "event-12-10",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1670688000.002318,
+    "endTimestamp": 1670774400.002318
+  },
+  {
+    "id": "event-12-11",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1670774400.002265,
+    "endTimestamp": 1670864400.002265
+  },
+  {
+    "id": "event-12-12",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1670864400.00452,
+    "endTimestamp": 1670950800.00452
+  },
+  {
+    "id": "event-12-13",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1670950800.0021892,
+    "endTimestamp": 1671037200.0021892
+  },
+  {
+    "id": "event-12-14-2",
+    "type": "piggy-boost",
+    "multiplier": 3,
+    "message": "3x PIGGY GROWTH!!",
+    "startTimestamp": 1671037200.001898,
+    "endTimestamp": 1671123600.001898
+  },
+  {
+    "id": "event-12-14",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1671037200.0019248,
+    "endTimestamp": 1671123600.0019248
+  },
+  {
+    "id": "event-12-15",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1671123600.03268,
+    "endTimestamp": 1671210000.03268
+  },
+  {
+    "id": "event-12-16-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1671210000.0031621,
+    "endTimestamp": 1671296400.0031621
+  },
+  {
+    "id": "event-12-16",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1671210000.003221,
+    "endTimestamp": 1671296400.003221
+  },
+  {
+    "id": "event-12-17-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1671292800.0796602,
+    "endTimestamp": 1671465600.0796602
+  },
+  {
+    "id": "event-12-17",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1671292800.0029013,
+    "endTimestamp": 1671379200.0029013
+  },
+  {
+    "id": "event-12-18-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1671379200.0023873,
+    "endTimestamp": 1671552000.0023873
+  },
+  {
+    "id": "event-12-18",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1671379200.002412,
+    "endTimestamp": 1671469200.002412
+  },
+  {
+    "id": "event-12-19",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1671469200.0035372,
+    "endTimestamp": 1671555600.0035372
+  },
+  {
+    "id": "event-12-20",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1671555600.002156,
+    "endTimestamp": 1671642000.002156
+  },
+  {
+    "id": "event-12-21-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1671642000.001596,
+    "endTimestamp": 1671728400.001596
+  },
+  {
+    "id": "event-12-21",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1671642000.001621,
+    "endTimestamp": 1671728400.001621
+  },
+  {
+    "id": "event-12-22",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "2x BOOST DURATION!",
+    "startTimestamp": 1671728400.0023448,
+    "endTimestamp": 1671814800.0023448
+  },
+  {
+    "id": "event-12-23",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1671814800.00209,
+    "endTimestamp": 1671901200.00209
+  },
+  {
+    "id": "event-12-24-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1671897600.0024738,
+    "endTimestamp": 1672070400.0024738
+  },
+  {
+    "id": "event-12-24",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1671897600.002573,
+    "endTimestamp": 1671984000.002573
+  },
+  {
+    "id": "event-12-25",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1671984000.002705,
+    "endTimestamp": 1672074000.002705
+  },
+  {
+    "id": "event-12-26",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1672074000.095549,
+    "endTimestamp": 1672160400.095549
+  },
+  {
+    "id": "event-12-27",
+    "type": "drone-boost",
+    "multiplier": 5,
+    "message": "5x DRONE REWARDS!",
+    "startTimestamp": 1672160400.0021858,
+    "endTimestamp": 1672246800.0021858
+  },
+  {
+    "id": "event-12-28-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1672246800.002867,
+    "endTimestamp": 1672333200.002867
+  },
+  {
+    "id": "event-12-28",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1672246800.0028949,
+    "endTimestamp": 1672333200.0028949
+  },
+  {
+    "id": "event-12-29-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1672333200.003089,
+    "endTimestamp": 1672419600.003089
+  },
+  {
+    "id": "event-12-29",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1672333200.003114,
+    "endTimestamp": 1672419600.003114
+  },
+  {
+    "id": "event-12-30",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1672419600.0086231,
+    "endTimestamp": 1672506000.0086231
+  },
+  {
+    "id": "event-12-31-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1672502400.032613,
+    "endTimestamp": 1672675200.032613
+  },
+  {
+    "id": "event-12-31",
+    "type": "prestige-boost",
+    "multiplier": 3,
+    "message": "TRIPLE PRESTIGE!!!",
+    "startTimestamp": 1672502400.006721,
+    "endTimestamp": 1672588800.006721
+  },
+  {
+    "id": "event-1-1-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1672588800.002488,
+    "endTimestamp": 1672761600.002488
+  },
+  {
+    "id": "event-1-1",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1672588800.002776,
+    "endTimestamp": 1672678800.002776
+  },
+  {
+    "id": "event-1-2",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1672678800.006688,
+    "endTimestamp": 1672765200.006688
+  },
+  {
+    "id": "event-1-3",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1672765200.0026474,
+    "endTimestamp": 1672851600.0026474
+  },
+  {
+    "id": "event-1-4-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1672851600.011808,
+    "endTimestamp": 1672938000.011808
+  },
+  {
+    "id": "event-1-4",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1672851600.0118349,
+    "endTimestamp": 1672938000.0118349
+  },
+  {
+    "id": "event-1-5",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1672938000.0033782,
+    "endTimestamp": 1673024400.0033782
+  },
+  {
+    "id": "event-1-6",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1673024400.0032642,
+    "endTimestamp": 1673110800.0032642
+  },
+  {
+    "id": "event-1-7-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1673107200.005095,
+    "endTimestamp": 1673280000.005095
+  },
+  {
+    "id": "event-1-7",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1673107200.003514,
+    "endTimestamp": 1673193600.003514
+  },
+  {
+    "id": "event-1-8",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1673193600.00288,
+    "endTimestamp": 1673283600.00288
+  },
+  {
+    "id": "event-1-9",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1673283600.003024,
+    "endTimestamp": 1673370000.003024
+  },
+  {
+    "id": "event-1-10",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "2x BOOST DURATION!",
+    "startTimestamp": 1673370000.0763102,
+    "endTimestamp": 1673456400.0763102
+  },
+  {
+    "id": "event-1-11-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1673456400.0095942,
+    "endTimestamp": 1673542800.0095942
+  },
+  {
+    "id": "event-1-11",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1673456400.0096521,
+    "endTimestamp": 1673542800.0096521
+  },
+  {
+    "id": "event-1-12",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1673542800.0030608,
+    "endTimestamp": 1673629200.0030608
+  },
+  {
+    "id": "event-1-13",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1673629200.0052772,
+    "endTimestamp": 1673715600.0052772
+  },
+  {
+    "id": "event-1-14-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1673712000.003536,
+    "endTimestamp": 1673884800.003536
+  },
+  {
+    "id": "event-1-14",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1673712000.006557,
+    "endTimestamp": 1673798400.006557
+  },
+  {
+    "id": "event-1-15-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1673798400.1090329,
+    "endTimestamp": 1673888400.1090329
+  },
+  {
+    "id": "event-1-15",
+    "type": "boost-sale",
+    "multiplier": 0.75,
+    "message": "25% OFF BOOSTS!",
+    "startTimestamp": 1673798400.109071,
+    "endTimestamp": 1673888400.109071
+  },
+  {
+    "id": "event-1-16",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1673888400.003724,
+    "endTimestamp": 1673974800.003724
+  },
+  {
+    "id": "event-1-17",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1673974800.0029929,
+    "endTimestamp": 1674061200.0029929
+  },
+  {
+    "id": "event-1-18-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1674063972.258467,
+    "endTimestamp": 1674147600.005291
+  },
+  {
+    "id": "event-1-18",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1674064092.347026,
+    "endTimestamp": 1674147600.0053189
+  },
+  {
+    "id": "event-1-19",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1674147600.0031,
+    "endTimestamp": 1674234000.0031
+  },
+  {
+    "id": "event-1-20",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1674234000.0036461,
+    "endTimestamp": 1674320400.0036461
+  },
+  {
+    "id": "event-1-21-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1674316800.0022829,
+    "endTimestamp": 1674489600.0022829
+  },
+  {
+    "id": "event-1-21",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1674316800.002882,
+    "endTimestamp": 1674403200.002882
+  },
+  {
+    "id": "event-1-22",
+    "type": "epic-research-sale",
+    "multiplier": 0.65,
+    "message": "35% OFF EPIC RESEARCH!",
+    "startTimestamp": 1674403200.0020552,
+    "endTimestamp": 1674493200.0020552
+  },
+  {
+    "id": "event-1-23",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1674493200.0023358,
+    "endTimestamp": 1674579600.0023358
+  },
+  {
+    "id": "event-1-24",
+    "type": "drone-boost",
+    "multiplier": 4,
+    "message": "4x DRONE REWARDS!",
+    "startTimestamp": 1674581292.32696,
+    "endTimestamp": 1674666000.004365
+  },
+  {
+    "id": "event-1-25-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1674666000.0023088,
+    "endTimestamp": 1674752400.0023088
+  },
+  {
+    "id": "event-1-25",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1674666000.002336,
+    "endTimestamp": 1674752400.002336
+  },
+  {
+    "id": "event-1-26-2",
+    "type": "mission-fuel",
+    "multiplier": 3,
+    "message": "3x FUELING!",
+    "startTimestamp": 1674748800.003201,
+    "endTimestamp": 1674835200.003201
+  },
+  {
+    "id": "event-1-26",
+    "type": "boost-duration",
+    "multiplier": 2,
+    "message": "2x BOOST DURATION!",
+    "startTimestamp": 1674752400.002135,
+    "endTimestamp": 1674838800.002135
+  },
+  {
+    "id": "event-1-27",
+    "type": "research-sale",
+    "multiplier": 0.3,
+    "message": "70% OFF RESEARCH!",
+    "startTimestamp": 1674838800.002278,
+    "endTimestamp": 1674925200.002278
+  },
+  {
+    "id": "event-1-28-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1674921600.002362,
+    "endTimestamp": 1675094400.002362
+  },
+  {
+    "id": "event-1-28",
+    "type": "prestige-boost",
+    "multiplier": 2,
+    "message": "DOUBLE PRESTIGE!",
+    "startTimestamp": 1674921600.002167,
+    "endTimestamp": 1675008000.002167
+  },
+  {
+    "id": "event-1-29-2",
+    "type": "mission-capacity",
+    "multiplier": 2,
+    "message": "2x MISSION CAPACITY!!!",
+    "startTimestamp": 1675008000.0110161,
+    "endTimestamp": 1675180800.0110161
+  },
+  {
+    "id": "event-1-29",
+    "type": "crafting-sale",
+    "multiplier": 0.7,
+    "message": "30% OFF CRAFTING!",
+    "startTimestamp": 1675008000.003173,
+    "endTimestamp": 1675098000.003173
+  },
+  {
+    "id": "event-1-30",
+    "type": "earnings-boost",
+    "multiplier": 2,
+    "message": "2x EARNINGS!",
+    "startTimestamp": 1675098000.001887,
+    "endTimestamp": 1675184400.001887
+  },
+  {
+    "id": "event-1-31",
+    "type": "hab-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF HEN HOUSES!",
+    "startTimestamp": 1675184400.003622,
+    "endTimestamp": 1675270800.003622
+  },
+  {
+    "id": "event-2-1-2",
+    "type": "piggy-boost",
+    "multiplier": 4,
+    "message": "4x PIGGY GROWTH!!",
+    "startTimestamp": 1675270800.0020561,
+    "endTimestamp": 1675357200.0020561
+  },
+  {
+    "id": "event-2-1",
+    "type": "vehicle-sale",
+    "multiplier": 0.25,
+    "message": "75% OFF VEHICLES!",
+    "startTimestamp": 1675270800.002082,
+    "endTimestamp": 1675357200.002082
+  },
+  {
+    "id": "event-2-2",
+    "type": "gift-boost",
+    "multiplier": 2,
+    "message": "2x GIFTS!",
+    "startTimestamp": 1675357200.002037,
+    "endTimestamp": 1675443600.002037
+  }
+]

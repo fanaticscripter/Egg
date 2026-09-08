@@ -466,7 +466,11 @@ export default defineComponent({
 
 <style lang="postcss" scoped>
 :deep(.p-datatable-table) {
-  @apply ultrawide:rounded-md overflow-hidden;
+  /* primevue's own stylesheet isn't loaded here, so the table has no width of
+     its own and would sit content-width inside a full-width panel. A table
+     still refuses to shrink below its content, so narrow viewports overflow
+     and scroll as before. */
+  @apply w-full ultrawide:rounded-md overflow-hidden;
 }
 
 :deep(.Column__Header--center .p-column-header-content) {

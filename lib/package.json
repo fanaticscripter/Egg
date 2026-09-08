@@ -12,14 +12,14 @@
     "typescript-memoize": "^1.0.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.14.3",
-    "@babel/plugin-transform-modules-commonjs": "^7.14.0",
-    "@types/jest": "^26.0.23",
+    "@babel/core": "^7.29.7",
+    "@babel/plugin-transform-modules-commonjs": "^7.29.7",
+    "@types/jest": "^30.0.0",
     "@types/lunr": "^2.3.4",
-    "babel-jest": "^27.0.1",
-    "jest": "^27.0.1",
+    "babel-jest": "^30.5.1",
+    "jest": "^30.5.1",
     "protobufjs-cli": "^1.0.0",
-    "ts-jest": "^27.0.1"
+    "ts-jest": "^29.4.12"
   },
   "scripts": {
     "test": "jest"

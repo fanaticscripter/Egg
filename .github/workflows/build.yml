@@ -19,11 +19,8 @@ jobs:
       - name: Set up Node
         uses: actions/setup-node@v7
         with:
-          node-version: '18'
+          node-version: '24'
           cache: 'yarn'
-          cache-dependency-path: |
-            yarn.lock
-            yarn-global/yarn.lock
       - name: Do other preparations
         run: |
           ../action-scripts/prepare
@@ -36,9 +33,7 @@ jobs:
         run: make fastbuild
       - name: Install netlify cli
         run: |
-          mkdir -p "$(yarn global dir)"
-          cp ../yarn-global/* "$(yarn global dir)"
-          yarn global add netlify-cli
+          npm install -g netlify-cli
       - name: Deploy
         run: |
           netlify deploy --prod
@@ -71,7 +66,7 @@ jobs:
       - name: Set up Node
         uses: actions/setup-node@v7
         with:
-          node-version: '18'
+          node-version: '24'
           cache: 'yarn'
       - name: Do other preparations
         run: |
@@ -111,11 +106,8 @@ jobs:
       - name: Set up Node
         uses: actions/setup-node@v7
         with:
-          node-version: '18'
+          node-version: '24'
           cache: 'yarn'
-          cache-dependency-path: |
-            yarn.lock
-            yarn-global/yarn.lock
       - name: Set up Python
         uses: actions/setup-python@v7
         with:
@@ -138,9 +130,7 @@ jobs:
           EIAPI_TOKEN: ${{ secrets.EIAPI_TOKEN }}
       - name: Install netlify cli
         run: |
-          mkdir -p "$(yarn global dir)"
-          cp ../yarn-global/* "$(yarn global dir)"
-          yarn global add netlify-cli
+          npm install -g netlify-cli
       - name: Deploy
         run: |
           netlify deploy --prod
@@ -189,7 +179,7 @@ jobs:
       - name: Set up Node
         uses: actions/setup-node@v7
         with:
-          node-version: '18'
+          node-version: '24'
           cache: 'yarn'
       - name: Set up Python
         uses: actions/setup-python@v7

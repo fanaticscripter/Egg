@@ -1,7 +1,15 @@
 import dayjs, { Dayjs } from 'dayjs';
 
-import { ArtifactSet, ei, FarmerRole, requestQueryCoop, soulPowerToFarmerRole } from 'lib';
-import { ContractLeague, getContractFromPlayerSave, ContractLeagueStatus } from './contract';
+import {
+  ArtifactSet,
+  ContractGrade,
+  ei,
+  FarmerRole,
+  getContractGoals,
+  requestQueryCoop,
+  soulPowerToFarmerRole,
+} from 'lib';
+import { ContractLeague, ContractLeagueStatus, getContractFromPlayerSave } from './contract';
 import { SortedContractList } from './contractList';
 
 const COOP_LEAGUE_DIVIDER_EB = 1e13; // 10T%
@@ -26,6 +34,7 @@ export class CoopStatus {
   // creatorId is not, making it impossible to determine the creator.
   cannotDetermineCreator: boolean;
   league: ContractLeague | null;
+  grade: ContractGrade | null;
   goals: ei.Contract.IGoal[] | null;
   leagueStatus: ContractLeagueStatus | null;
   refreshTime: Dayjs;
@@ -68,6 +77,7 @@ export class CoopStatus {
         !isEncrypted(cs.creatorId) && this.contributors.some(c => isEncrypted(c.id));
     }
     this.league = null;
+    this.grade = cs.grade || null;
     this.goals = null;
     this.leagueStatus = null;
     this.refreshTime = dayjs(cs.localTimestamp! * 1000);
@@ -86,9 +96,11 @@ export class CoopStatus {
     const contract = knownContract || store.get(this.contractId, this.expirationTime.unix());
     if (contract) {
       this.contract = contract;
+      // A graded contract's coop status names the grade outright; only league
+      // era contracts need guessing at.
       if (knownLeague !== undefined) {
         this.league = knownLeague;
-      } else {
+      } else if (!this.isGraded) {
         await this.resolveLeague();
       }
     } else {
@@ -104,16 +116,22 @@ export class CoopStatus {
       }
       this.contract = result.contract;
       this.league = result.league;
+      this.grade ??= result.grade ?? null;
     }
-    this.goals = this.contract.goalSets
-      ? this.contract.goalSets[this.league as number].goals!
-      : this.contract.goals!;
+    this.goals = getContractGoals(this.contract, {
+      league: this.league ?? undefined,
+      grade: this.grade ?? undefined,
+    });
     this.leagueStatus = new ContractLeagueStatus(
       this.eggsLaid,
       this.eggsPerHour,
       this.secondsRemaining,
       this.goals
     );
+  }
+
+  get isGraded(): boolean {
+    return !!this.contract?.gradeSpecs?.length;
   }
 
   async resolveLeague(): Promise<ContractLeague> {

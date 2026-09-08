@@ -200,7 +200,7 @@
       :bodyClass="columnBodyClassesCentered"
     >
       <template #body="{ data: contract }">
-        {{ formatDuration(contract.lengthSeconds, true) }}
+        {{ contractDurationDisplay(contract) }}
       </template>
     </Column>
     <Column
@@ -290,29 +290,15 @@
       </template>
     </Column>
     <Column
-      field="eliteGoal"
-      header="Elite goal"
+      field="finalGoal"
+      header="Final goal"
       :sortable="true"
       :headerClass="columnHeaderClassesCentered"
       :bodyClass="columnBodyClassesCentered"
     >
       <template #body="{ data: contract }">
-        <template v-if="contract.eliteGoal">
-          {{ formatEIValue(contract.eliteGoal, { trim: true }) }}
-        </template>
-        <template v-else>&ndash;</template>
-      </template>
-    </Column>
-    <Column
-      field="standardGoal"
-      header="Std goal"
-      :sortable="true"
-      :headerClass="columnHeaderClassesCentered"
-      :bodyClass="columnBodyClassesCentered"
-    >
-      <template #body="{ data: contract }">
-        <template v-if="contract.standardGoal">
-          {{ formatEIValue(contract.standardGoal, { trim: true }) }}
+        <template v-if="contract.finalGoal">
+          {{ formatEIValue(contract.finalGoal, { trim: true }) }}
         </template>
         <template v-else>&ndash;</template>
       </template>
@@ -346,7 +332,7 @@ import Column from 'primevue/column';
 import { FilterMatchMode } from 'primevue/api';
 import dayjs from 'dayjs';
 
-import { Contract, eggIconPath, formatDuration, formatEIValue } from '@/lib';
+import { Contract, contractTiers, eggIconPath, formatDuration, formatEIValue } from '@/lib';
 import { key } from '@/store';
 import { eggTooltip } from '@/utils';
 import BaseInput from 'ui/components/BaseInput.vue';
@@ -420,6 +406,14 @@ export default defineComponent({
       store.dispatch('coopSelector/selectContractAndShow', contractId);
     const contractEggIconPath = (contract: Contract) => eggIconPath(contract.egg!);
     const contractEggTooltip = (contract: Contract) => eggTooltip(contract.egg!);
+    // A graded contract runs longer the higher the grade, so one number would
+    // only ever be right for one grade.
+    const contractDurationDisplay = (contract: Contract) => {
+      const durations = contractTiers(contract).map(tier => tier.durationSeconds);
+      const shortest = formatDuration(Math.min(...durations), true);
+      const longest = formatDuration(Math.max(...durations), true);
+      return shortest === longest ? longest : `${shortest}–${longest}`;
+    };
     const isAvailable = (contract: Contract, now: number) => contract.expirationTime! > now / 1000;
     const durationUntilExpiration = (contract: Contract, now: number) =>
       formatDuration(Math.max(contract.expirationTime! - now / 1000, 0), true);
@@ -454,6 +448,7 @@ export default defineComponent({
       selectContractAndShowCoopSelector,
       isAvailable,
       durationUntilExpiration,
+      contractDurationDisplay,
       contractEggIconPath,
       contractEggTooltip,
       formatEIValue,

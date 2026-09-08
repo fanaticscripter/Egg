@@ -1,6 +1,15 @@
 import dayjs, { Dayjs } from 'dayjs';
 
-import { ArtifactSet, ei, Farm, FarmerRole } from 'lib';
+import {
+  ArtifactSet,
+  ContractGrade,
+  ei,
+  Farm,
+  FarmerRole,
+  getContractDurationSeconds,
+  getContractGoals,
+  inferLocalContractGrade,
+} from 'lib';
 import { ContractLeague, ContractLeagueStatus } from './contract';
 
 export class SoloStatus {
@@ -14,7 +23,10 @@ export class SoloStatus {
   eggsPerHour: number;
   secondsRemaining: number;
   projectedEggsLaid: number;
-  league: ContractLeague;
+  // Exactly one of these is set: a contract is offered in leagues or in
+  // grades, never both.
+  league: ContractLeague | null;
+  grade: ContractGrade | null;
   goals: ei.Contract.IGoal[];
   refreshTime: Dayjs;
   expirationTime: Dayjs;
@@ -57,8 +69,11 @@ export class SoloStatus {
     this.eggsLaid = farm.eggsLaid;
     this.eggsPerHour = farm.eggsPerHour;
     this.refreshTime = farm.refreshTime;
+    this.grade = inferLocalContractGrade(contract) ?? null;
+    this.league = this.contract.gradeSpecs?.length ? null : contract.league || 0;
     this.expirationTime = dayjs(contract.timeAccepted! * 1000).add(
-      this.contract.lengthSeconds!,
+      // Graded contracts run for different lengths at different grades.
+      getContractDurationSeconds(this.contract, this.grade ?? undefined),
       'seconds'
     );
     this.secondsRemaining = this.expirationTime.diff(dayjs(), 'seconds', true);
@@ -67,10 +82,10 @@ export class SoloStatus {
       0
     );
     this.projectedEggsLaid = this.eggsLaid + this.eggsPerHour * hoursLeftAtRefresh;
-    this.league = contract.league || 0;
-    this.goals = this.contract.goalSets
-      ? this.contract.goalSets[this.league as number].goals!
-      : this.contract.goals!;
+    this.goals = getContractGoals(this.contract, {
+      league: this.league ?? undefined,
+      grade: this.grade ?? undefined,
+    });
 
     this.userId = backup.eiUserId!;
     this.userName = backup.userName!;

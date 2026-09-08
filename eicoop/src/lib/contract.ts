@@ -1,10 +1,64 @@
-import { ei, requestFirstContact } from 'lib';
+import { ContractGrade, ei, inferLocalContractGrade, requestFirstContact } from 'lib';
 
 export type ContractType = 'Original' | 'Leggacy';
 
 export enum ContractLeague {
   Elite = 0,
   Standard = 1,
+}
+
+/**
+ * One rung of a contract's difficulty ladder: a league on contracts old enough
+ * to have them, a grade on everything since.
+ */
+export interface ContractTier {
+  name: string;
+  goals: ei.Contract.IGoal[];
+  durationSeconds: number;
+}
+
+export function gradeName(grade: ContractGrade): string {
+  return ei.Contract.PlayerGrade[grade]?.replace(/^GRADE_/, '') ?? '?';
+}
+
+/**
+ * Lists a contract's tiers, easiest first, or a single unnamed tier for
+ * contracts that offer everyone the same goals.
+ */
+export function contractTiers(contract: ei.IContract): ContractTier[] {
+  if (contract.gradeSpecs?.length) {
+    return contract.gradeSpecs.map(spec => ({
+      name: gradeName(spec.grade!),
+      goals: spec.goals ?? [],
+      durationSeconds: spec.lengthSeconds ?? contract.lengthSeconds!,
+    }));
+  }
+  if (contract.goalSets?.some(set => set.goals?.length)) {
+    // Elite first, matching how the game itself ordered the two leagues.
+    return [ContractLeague.Elite, ContractLeague.Standard].map(league => ({
+      name: league === ContractLeague.Elite ? 'Elite' : 'Standard',
+      goals: contract.goalSets![league]?.goals ?? [],
+      durationSeconds: contract.lengthSeconds!,
+    }));
+  }
+  return [
+    {
+      name: '',
+      goals: contract.goals ?? [],
+      durationSeconds: contract.lengthSeconds!,
+    },
+  ];
+}
+
+/**
+ * The final target of the hardest tier on offer, which is what a contract is
+ * usually shorthanded by.
+ */
+export function contractFinalTarget(contract: ei.IContract): number {
+  return Math.max(
+    0,
+    ...contractTiers(contract).map(tier => tier.goals[tier.goals.length - 1]?.targetAmount ?? 0)
+  );
 }
 
 export enum ContractCompletionStatus {
@@ -17,7 +71,7 @@ export enum ContractCompletionStatus {
 export async function getContractFromPlayerSave(
   userId: string,
   contractId: string
-): Promise<{ contract: ei.IContract; league: ContractLeague } | null> {
+): Promise<{ contract: ei.IContract; league: ContractLeague; grade?: ContractGrade } | null> {
   const firstContact = await requestFirstContact(userId);
   if (!firstContact.backup) {
     throw new Error(`No backup found in /ei/first_contact response for ${userId}.`);
@@ -35,6 +89,7 @@ export async function getContractFromPlayerSave(
       return {
         contract: contract.contract!,
         league: contract.league! as ContractLeague,
+        grade: inferLocalContractGrade(contract),
       };
     }
   }

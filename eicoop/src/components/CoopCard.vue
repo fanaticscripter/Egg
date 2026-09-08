@@ -22,7 +22,11 @@
                 Copy contract ID &lsquo;{{ status.contractId }}&rsquo; to clipboard
               </template>
             </base-click-to-copy>
-            <contract-league-label :league="league" class="relative -top-px mr-1" />
+            <contract-tier-label
+              :league="league"
+              :grade="grade"
+              class="relative -top-px mr-1"
+            />
             <span
               v-if="contract.maxCoopSize && !leagueStatus.hasEnded"
               class="px-2.5 py-0.5 rounded-full text-xs font-medium text-white whitespace-nowrap relative -top-px"
@@ -245,7 +249,7 @@ import { completionStatusFgColorClass, completionStatusBgColorClass } from '@/st
 import { devmodeKey } from '@/symbols';
 import { eggTooltip } from '@/utils';
 import BaseIcon from 'ui/components/BaseIcon.vue';
-import ContractLeagueLabel from '@/components/ContractLeagueLabel.vue';
+import ContractTierLabel from '@/components/ContractTierLabel.vue';
 import ContractStatusLabel from '@/components/ContractStatusLabel.vue';
 import CoopCardShareSheet from '@/components/CoopCardShareSheet.vue';
 import ContractProgressBar from '@/components/ContractProgressBar.vue';
@@ -256,7 +260,7 @@ import AutoRefreshedRelativeTime from '@/components/AutoRefreshedRelativeTime.vu
 export default defineComponent({
   components: {
     BaseIcon,
-    ContractLeagueLabel,
+    ContractTierLabel,
     ContractStatusLabel,
     CoopCardShareSheet,
     ContractProgressBar,
@@ -277,7 +281,8 @@ export default defineComponent({
 
     const contract = computed(() => status.value.contract!);
     const egg = computed(() => contract.value.egg!);
-    const league = computed(() => status.value.league!);
+    const league = computed(() => status.value.league);
+    const grade = computed(() => status.value.grade);
     const leagueStatus = computed(() => status.value.leagueStatus!);
     const openings = computed(() =>
       Math.max((contract.value.maxCoopSize || 0) - status.value.contributors.length, 0)
@@ -288,6 +293,7 @@ export default defineComponent({
       contract,
       egg,
       league,
+      grade,
       leagueStatus,
       openings,
       formatEIValue,

@@ -1,8 +1,8 @@
 import { sha256 } from 'js-sha256';
 
-import { ei, decodeMessage } from 'lib';
+import { ei, decodeMessage, getContractGoals } from 'lib';
 import contractProtos from './contracts.json';
-import { ContractType } from './contract';
+import { contractFinalTarget, ContractType } from './contract';
 
 const ORIGINAL_CONTRACT_VALID_DURATION = 21 * 86400;
 const LEGGACY_CONTRACT_VALID_DURATION = 7 * 86400;
@@ -20,8 +20,7 @@ export interface Contract extends ei.IContract {
   numLeggacies: number;
   offeringTime: number;
   prophecyEggs: number;
-  eliteGoal: number;
-  standardGoal: number;
+  finalGoal: number;
 }
 
 export class SortedContractList extends Array<Contract> {
@@ -105,8 +104,7 @@ function annotateAndSortContracts(rawList: ei.IContract[]): Contract[] {
       numLeggacies: 0,
       offeringTime: 0,
       prophecyEggs: getProphecyEggsCount(c),
-      eliteGoal: getEliteGoal(c),
-      standardGoal: getStandardGoal(c),
+      finalGoal: contractFinalTarget(c),
     }));
   const count = new Map<string, number>();
   for (const contract of list) {
@@ -126,25 +124,14 @@ function annotateAndSortContracts(rawList: ei.IContract[]): Contract[] {
   return list.sort((c1, c2) => c1.offeringTime - c2.offeringTime);
 }
 
+// Every tier of a contract hands out the same rewards, so it doesn't matter
+// which one we count prophecy eggs from.
 function getProphecyEggsCount(contract: ei.IContract) {
   let count = 0;
-  for (const goal of contract.goals!) {
+  for (const goal of getContractGoals(contract)) {
     if (goal.rewardType === ei.RewardType.EGGS_OF_PROPHECY) {
       count += goal.rewardAmount!;
     }
   }
   return count;
-}
-
-function getEliteGoal(contract: ei.IContract) {
-  const goals = contract.goals!;
-  return goals[goals.length - 1].targetAmount!;
-}
-
-function getStandardGoal(contract: ei.IContract) {
-  if (!contract.goalSets) {
-    return 0;
-  }
-  const goals = contract.goalSets[1].goals!;
-  return goals[goals.length - 1].targetAmount!;
 }
